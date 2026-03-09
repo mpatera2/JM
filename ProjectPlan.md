@@ -15,17 +15,22 @@ To do this, we need to aggregate state-level unemployment data from November of 
 
 While we plan on working collaboratively on all elements, below is a tentative plan on who will focus on what, although this is subject to change:
 
-Michael Patera
+# Michael Patera
 Data cleaning of the FRED data set 
 Data cleaning of the election data set
 Statistical analysis
 
-Joy Olalusi
+# Joy Olalusi
 Acquisition of the FRED data set using the API
 Visualization of results
 Written analysis
 
 ## Questions to Answer
+
+## Datasets
+We will pull state-level unemployment data from FRED
+We will pull election results from the link below: 
+https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit?gid=29622862#gid=29622862 
 
 
 
