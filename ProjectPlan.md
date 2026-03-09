@@ -29,9 +29,23 @@ Written analysis
 
 ## Datasets
 We will pull state-level unemployment data from FRED
+
 We will pull election results from the link below: 
 https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit?gid=29622862#gid=29622862 
 
+These data sets will be integrated together because both unemployment data and election data can be analyzed at the state level. 
 
+## Timeline
+
+## Constraints
+A few challenges come to the top of my mind when I think about this project, however they all seem manageable. Below are the ones I have thought of so far:
+
+Data Integration - The datasets may use different names for each state (IL vs Illinois)
+Data Integration - Unemployment data is monthly, while election results are every 4 years. I'll have to decide if we want to consider unemployment in the election month, average unemployment during the year, or change in unemployment since the previous election. 
+Data Integration - The datasets may use different time formats
+
+Data Availability - Some state unemployment data may start later than 1960. As a result may have to adjust the time range of our analysis. 
+
+Election Results - In 1968, third party candidate George Wallace won 46 electoral votes. This may cause an error if we decide to encode the data in a manner like 1 = Democrat and 2 = Republican. 
 
 
