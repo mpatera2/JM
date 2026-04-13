@@ -11,7 +11,7 @@ I developed the acquire_fred_data Jupyter notebook to retrieve data via the FRED
 Since we already had experience using the FRED API from a previous lab, developing this notebook was relatively simple. Additionally, since Joy and I had good communication throughout the process, the schemas between the FRED data and the election data closely matched, making record linkage and data fusion much easier. 
 
 ### Joy's Progress
-
+In relation to handling the election data , the first thing we needed to do is clean the data. Our election data is derived from Daily Kos Elections presidential election results & partisanship scores. This includes 
 
 ### Future Plans
 We are perfectly on schedule. With the data being fused, the next step is to begin our analysis of the data. 
