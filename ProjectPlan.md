@@ -52,6 +52,7 @@ Do states who vote for the winning candidate tend to have more favorable unemplo
 ## Datasets
 We will pull state-level unemployment data from FRED (Federal Reseverve Economic Database) 
 
+EDIT: URL link to database: "https://api.stlouisfed.org/fred/series/observations"
 
 This data base is a reliable source as the Bureua of Labor and statistics report consistent historical and reliable data. We need chose this dataset because we need unemployment rates over a long enough period to notice cycles of patterns in relation to presidential elections.
 
@@ -59,6 +60,8 @@ We will pull election results from the link below:
 https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit?gid=29622862#gid=29622862
 
 Our second dataset is related to presidential election results. It includes variables such as the year of the election, the state, the region, and the presidential candidates participating in the given election year. The dataset also includes partisanship scores, which represent the political leaning of a state based on which party won the election. These scores help provide additional context about whether a state tends to lean more Democratic or Republican. This information is useful for our analysis because it allows us to compare political trends across states and election years and examine how these trends may relate to changes in unemployment rates
+
+EDIT: Explaining the source and validity of the data set: The second dataset used in this project is a historical presidential election results dataset compiled by Daily Kos Elections. This dataset provides state-level presidential election outcomes by year, including the winning party for each state from 1960 to the present. Although the file is distributed as a Google Spreadsheet, the underlying information is compiled from publicly available certified election returns, state election agencies, historical archives, and other official election records. Daily Kos Elections is widely recognized for maintaining detailed election data used by analysts, journalists, and researchers for historical and comparative political analysis. For this project, the dataset is appropriate because it offers a consistent and structured state-by-year format that can be easily merged with unemployment data using state names and election years. Because it is a secondary compiled source rather than the original publisher, key results can also be cross-checked with official election records or other reputable public sources to ensure accuracy and reproducibility.
 
 These data sets will be integrated together because both unemployment data and election data can be analyzed at the state level. 
 
