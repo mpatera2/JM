@@ -8,7 +8,10 @@ Additionally, we will be starting our analysis in 1976 instead of 1960, since th
 ### Michael's Progress
 I developed the acquire_fred_data Jupyter notebook to retrieve data via the FRED API and produce the fred_unemployment_raw dataset. Additionally, I documented the SHA-256 hash of the dataset to ensure reproducibility and data integrity.
 
+Since we already had experience using the FRED API from a previous lab, developing this notebook was relatively simple. Additionally, since Joy and I had good communication throughout the process, the schemas between the FRED data and the election data closely matched, making record linkage and data fusion much easier. 
+
 ### Joy's Progress
 
 
-### 
+### Future Plans
+We are perfectly on schedule. With the data being fused, the next step is to begin our analysis of the data. 
