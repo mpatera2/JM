@@ -1,0 +1,651 @@
+,Year,State,Region,Democratic %,Republican %,P.S.,P.S. Score,National Winner,State Winner,ElectionYear_Unemployment,Change_Since_Last_Election
+0,1976,Alabama,South,55.7,42.6,D+,11.23,Carter (D),Democrat,7.0,
+1,1980,Alabama,South,47.4,48.8,D+,9.26,Reagan (R),Democrat,9.4,2.4000000000000004
+2,1984,Alabama,South,38.3,60.5,R+,-4.19,Reagan (R),Republican,10.5,1.0999999999999996
+3,1988,Alabama,South,39.9,59.2,R+,-11.69,Bush H.W. (R),Republican,7.3,-3.2
+4,1992,Alabama,South,40.9,47.6,R+,-14.55,Clinton (D),Republican,7.5,0.20000000000000018
+5,1996,Alabama,South,43.2,50.1,R+,-16.94,Clinton (D),Republican,5.1,-2.4000000000000004
+6,2000,Alabama,South,41.6,56.5,R+,-15.71,Bush W. (R),Republican,4.6,-0.5
+7,2004,Alabama,South,36.8,62.5,R+,-23.31,Bush W. (R),Republican,5.2,0.6000000000000005
+8,2008,Alabama,South,38.7,60.3,R+,-29.16,Obama (D),Republican,7.2,2.0
+9,2012,Alabama,South,38.4,60.5,R+,-26.36,Obama (D),Republican,7.8,0.5999999999999996
+10,2016,Alabama,South,34.4,62.1,R+,-30.97,Trump (R),Republican,5.7,-2.0999999999999996
+11,2020,Alabama,South,36.6,62.0,R+,-30.36,Biden (D),Republican,4.8,-0.9000000000000004
+12,2024,Alabama,South,34.1,64.6,R+,-29.38,Trump (R),Republican,3.3,-1.5
+13,1976,Alaska,West,35.7,57.9,R+,-25.89,Carter (D),Republican,8.6,
+14,1980,Alaska,West,26.4,54.3,R+,-23.99,Reagan (R),Republican,9.5,0.9000000000000004
+15,1984,Alaska,West,29.9,66.7,R+,-19.77,Reagan (R),Republican,9.6,0.09999999999999964
+16,1988,Alaska,West,36.3,59.6,R+,-16.52,Bush H.W. (R),Republican,8.3,-1.299999999999999
+17,1992,Alaska,West,30.3,39.5,R+,-20.06,Clinton (D),Republican,8.4,0.09999999999999964
+18,1996,Alaska,West,33.3,50.8,R+,-30.33,Clinton (D),Republican,7.4,-1.0
+19,2000,Alaska,West,27.7,58.6,R+,-36.41,Bush W. (R),Republican,6.3,-1.1000000000000005
+20,2004,Alaska,West,35.5,61.1,R+,-23.96,Bush W. (R),Republican,7.2,0.9000000000000004
+21,2008,Alaska,West,37.9,59.4,R+,-29.51,Obama (D),Republican,6.8,-0.40000000000000036
+22,2012,Alaska,West,40.8,54.8,R+,-18.56,Obama (D),Republican,7.0,0.20000000000000018
+23,2016,Alaska,West,36.6,51.3,R+,-19.0,Trump (R),Republican,6.7,-0.2999999999999998
+24,2020,Alaska,West,42.8,52.8,R+,-15.06,Biden (D),Republican,7.0,0.2999999999999998
+25,2024,Alaska,West,41.4,54.5,R+,-12.19,Trump (R),Republican,4.7,-2.3
+26,1976,Arizona,West,39.8,56.4,R+,-19.33,Carter (D),Republican,9.4,
+27,1980,Arizona,West,28.2,60.6,R+,-25.81,Reagan (R),Republican,6.5,-2.9000000000000004
+28,1984,Arizona,West,32.5,66.4,R+,-15.89,Reagan (R),Republican,5.3,-1.2000000000000002
+29,1988,Arizona,West,38.7,60.0,R+,-13.68,Bush H.W. (R),Republican,6.3,1.0
+30,1992,Arizona,West,36.5,38.5,R+,-9.51,Clinton (D),Republican,7.3,1.0
+31,1996,Arizona,West,46.5,44.3,R+,-7.02,Clinton (D),Republican,5.6,-1.7000000000000002
+32,2000,Arizona,West,44.7,51.0,R+,-7.1,Bush W. (R),Republican,3.9,-1.6999999999999997
+33,2004,Arizona,West,44.3,54.8,R+,-8.06,Bush W. (R),Republican,4.6,0.6999999999999997
+34,2008,Arizona,West,44.9,53.4,R+,-16.0,Obama (D),Republican,7.3,2.7
+35,2012,Arizona,West,44.4,53.5,R+,-13.16,Obama (D),Republican,8.1,0.7999999999999998
+36,2016,Arizona,West,44.6,48.1,R+,-6.01,Trump (R),Republican,5.3,-2.8
+37,2020,Arizona,West,49.2,48.9,R+,-4.23,Biden (D),Republican,6.7,1.4000000000000004
+38,2024,Arizona,West,46.5,52.1,R+,-4.09,Trump (R),Republican,3.9,-2.8000000000000003
+39,1976,Arkansas,South,64.9,34.9,D+,27.94,Carter (D),Democrat,6.6,
+40,1980,Arkansas,South,47.5,48.1,D+,9.97,Reagan (R),Democrat,8.1,1.5
+41,1984,Arkansas,South,38.3,60.5,R+,-4.12,Reagan (R),Republican,8.4,0.3000000000000007
+42,1988,Arkansas,South,42.2,56.4,R+,-6.58,Bush H.W. (R),Republican,7.5,-0.9000000000000004
+43,1992,Arkansas,South,53.2,35.5,D+,13.07,Clinton (D),Democrat,6.6,-0.9000000000000004
+44,1996,Arkansas,South,53.7,36.8,D+,9.24,Clinton (D),Democrat,5.2,-1.3999999999999995
+45,2000,Arkansas,South,45.9,51.3,R+,-6.14,Bush W. (R),Republican,4.2,-1.0
+46,2004,Arkansas,South,44.5,54.3,R+,-7.38,Bush W. (R),Republican,5.4,1.2000000000000002
+47,2008,Arkansas,South,38.9,58.7,R+,-27.72,Obama (D),Republican,6.2,0.7999999999999998
+48,2012,Arkansas,South,36.9,60.6,R+,-28.24,Obama (D),Republican,7.2,1.0
+49,2016,Arkansas,South,33.7,60.6,R+,-30.8,Trump (R),Republican,3.9,-3.3000000000000003
+50,2020,Arkansas,South,34.8,62.4,R+,-32.96,Biden (D),Republican,5.1,1.1999999999999997
+51,2024,Arkansas,South,33.6,64.2,R+,-29.84,Trump (R),Republican,3.6,-1.4999999999999996
+52,1976,California,West,47.6,49.3,R+,-3.94,Carter (D),Republican,9.4,
+53,1980,California,West,35.9,52.7,R+,-8.33,Reagan (R),Republican,7.1,-2.3000000000000007
+54,1984,California,West,41.3,57.5,D+,1.89,Reagan (R),Democrat,7.5,0.40000000000000036
+55,1988,California,West,47.6,51.1,D+,4.19,Bush H.W. (R),Democrat,5.2,-2.3
+56,1992,California,West,46.0,32.6,D+,10.12,Clinton (D),Democrat,9.8,4.6000000000000005
+57,1996,California,West,51.1,38.2,D+,4.96,Clinton (D),Democrat,7.0,-2.8000000000000007
+58,2000,California,West,53.4,41.7,D+,11.87,Bush W. (R),Democrat,4.7,-2.3
+59,2004,California,West,54.3,44.4,D+,12.57,Bush W. (R),Democrat,5.9,1.2000000000000002
+60,2008,California,West,60.9,36.9,D+,17.18,Obama (D),Democrat,8.8,2.9000000000000004
+61,2012,California,West,60.2,37.1,D+,19.82,Obama (D),Democrat,9.8,1.0
+62,2016,California,West,61.5,31.5,D+,30.03,Trump (R),Democrat,5.4,-4.4
+63,2020,California,West,63.4,34.3,D+,25.28,Biden (D),Democrat,9.0,3.5999999999999996
+64,2024,California,West,58.4,38.3,D+,22.3,Trump (R),Democrat,5.5,-3.5
+65,1976,Colorado,West,42.6,54.1,R+,-13.98,Carter (D),Republican,6.4,
+66,1980,Colorado,West,31.1,55.1,R+,-17.25,Reagan (R),Republican,6.3,-0.10000000000000053
+67,1984,Colorado,West,35.1,63.4,R+,-10.39,Reagan (R),Republican,5.8,-0.5
+68,1988,Colorado,West,45.3,53.1,R+,-0.1,Bush H.W. (R),Republican,6.0,0.20000000000000018
+69,1992,Colorado,West,40.1,35.9,R+,-1.31,Clinton (D),Republican,6.1,0.09999999999999964
+70,1996,Colorado,West,44.4,45.8,R+,-10.99,Clinton (D),Republican,3.9,-2.1999999999999997
+71,2000,Colorado,West,42.4,50.8,R+,-9.51,Bush W. (R),Republican,2.7,-1.1999999999999997
+72,2004,Colorado,West,47.0,51.7,R+,-2.24,Bush W. (R),Republican,5.4,2.7
+73,2008,Colorado,West,53.7,44.7,D+,1.72,Obama (D),Democrat,5.7,0.2999999999999998
+74,2012,Colorado,West,51.4,46.1,D+,1.57,Obama (D),Democrat,7.5,1.7999999999999998
+75,2016,Colorado,West,48.2,43.3,D+,3.14,Trump (R),Democrat,2.8,-4.7
+76,2020,Colorado,West,55.4,41.9,D+,9.34,Biden (D),Democrat,6.2,3.4000000000000004
+77,2024,Colorado,West,54.1,43.1,D+,12.79,Trump (R),Democrat,4.6,-1.6000000000000005
+78,1976,Connecticut,Northeast,46.9,52.1,R+,-7.32,Carter (D),Republican,8.5,
+79,1980,Connecticut,Northeast,38.5,48.2,R+,-0.5,Reagan (R),Republican,6.0,-2.5
+80,1984,Connecticut,Northeast,38.8,60.7,R+,-3.66,Reagan (R),Republican,4.6,-1.4000000000000004
+81,1988,Connecticut,Northeast,46.9,52.0,D+,2.64,Bush H.W. (R),Democrat,3.0,-1.5999999999999996
+82,1992,Connecticut,Northeast,42.2,35.8,D+,1.34,Clinton (D),Democrat,7.3,4.3
+83,1996,Connecticut,Northeast,52.8,34.7,D+,11.26,Clinton (D),Democrat,5.3,-2.0
+84,2000,Connecticut,Northeast,55.9,38.4,D+,17.97,Bush W. (R),Democrat,2.1,-3.1999999999999997
+85,2004,Connecticut,Northeast,54.3,43.9,D+,13.04,Bush W. (R),Democrat,4.9,2.8000000000000003
+86,2008,Connecticut,Northeast,60.6,38.2,D+,15.26,Obama (D),Democrat,6.5,1.5999999999999996
+87,2012,Connecticut,Northeast,58.1,40.7,D+,13.62,Obama (D),Democrat,8.3,1.8000000000000007
+88,2016,Connecticut,Northeast,54.6,40.9,D+,12.06,Trump (R),Democrat,4.6,-3.700000000000001
+89,2020,Connecticut,Northeast,59.2,39.2,D+,15.8,Biden (D),Democrat,7.5,2.9000000000000004
+90,2024,Connecticut,Northeast,56.4,41.9,D+,16.26,Trump (R),Democrat,3.2,-4.3
+91,1976,Delaware,Northeast,52.0,46.6,D+,3.39,Carter (D),Democrat,9.4,
+92,1980,Delaware,Northeast,44.9,47.2,D+,8.08,Reagan (R),Democrat,7.7,-1.7000000000000002
+93,1984,Delaware,Northeast,39.9,59.8,R+,-1.57,Reagan (R),Republican,5.9,-1.7999999999999998
+94,1988,Delaware,Northeast,43.5,55.9,R+,-4.68,Bush H.W. (R),Republican,3.1,-2.8000000000000003
+95,1992,Delaware,Northeast,43.5,35.3,D+,3.49,Clinton (D),Democrat,5.1,1.9999999999999996
+96,1996,Delaware,Northeast,51.8,36.5,D+,7.78,Clinton (D),Democrat,5.3,0.20000000000000018
+97,2000,Delaware,Northeast,55.0,41.9,D+,12.94,Bush W. (R),Democrat,3.6,-1.6999999999999997
+98,2004,Delaware,Northeast,53.3,45.7,D+,10.15,Bush W. (R),Democrat,4.1,0.49999999999999956
+99,2008,Delaware,Northeast,61.9,36.9,D+,17.9,Obama (D),Democrat,6.2,2.1000000000000005
+100,2012,Delaware,Northeast,58.6,40.0,D+,14.96,Obama (D),Democrat,6.9,0.7000000000000002
+101,2016,Delaware,Northeast,53.1,41.7,D+,9.77,Trump (R),Democrat,4.6,-2.3000000000000007
+102,2020,Delaware,Northeast,58.7,39.8,D+,14.71,Biden (D),Democrat,5.4,0.8000000000000007
+103,2024,Delaware,Northeast,56.5,41.8,D+,16.46,Trump (R),Democrat,3.6,-1.8000000000000003
+104,1976,Florida,South,51.9,46.6,D+,3.26,Carter (D),Democrat,9.1,
+105,1980,Florida,South,38.5,55.5,R+,-7.49,Reagan (R),Republican,6.1,-3.0
+106,1984,Florida,South,34.7,65.3,R+,-12.33,Reagan (R),Republican,6.3,0.20000000000000018
+107,1988,Florida,South,38.5,60.9,R+,-14.7,Bush H.W. (R),Republican,5.3,-1.0
+108,1992,Florida,South,39.0,40.9,R+,-9.28,Clinton (D),Republican,8.1,2.8
+109,1996,Florida,South,48.0,42.3,R+,-3.16,Clinton (D),Republican,5.2,-2.8999999999999995
+110,2000,Florida,South,48.8,48.8,R+,-0.55,Bush W. (R),Republican,3.7,-1.5
+111,2004,Florida,South,47.1,52.1,R+,-2.56,Bush W. (R),Republican,4.4,0.7000000000000002
+112,2008,Florida,South,50.9,48.1,R+,-4.54,Obama (D),Republican,7.7,3.3
+113,2012,Florida,South,49.9,49.0,R+,-3.04,Obama (D),Republican,8.2,0.4999999999999991
+114,2016,Florida,South,47.4,48.6,R+,-3.46,Trump (R),Republican,4.8,-3.3999999999999995
+115,2020,Florida,South,47.8,51.1,R+,-7.93,Biden (D),Republican,6.5,1.7000000000000002
+116,2024,Florida,South,42.8,55.9,R+,-11.72,Trump (R),Republican,3.5,-3.0
+117,1976,Georgia,South,66.7,33.0,D+,31.77,Carter (D),Democrat,8.1,
+118,1980,Georgia,South,55.8,41.0,D+,25.92,Reagan (R),Democrat,6.2,-1.8999999999999995
+119,1984,Georgia,South,39.8,60.2,R+,-2.06,Reagan (R),Republican,6.1,-0.10000000000000053
+120,1988,Georgia,South,39.5,59.8,R+,-12.6,Bush H.W. (R),Republican,5.4,-0.6999999999999993
+121,1992,Georgia,South,43.5,42.9,R+,-6.23,Clinton (D),Republican,6.2,0.7999999999999998
+122,1996,Georgia,South,45.8,47.0,R+,-10.74,Clinton (D),Republican,4.8,-1.4000000000000004
+123,2000,Georgia,South,43.0,54.7,R+,-12.51,Bush W. (R),Republican,3.4,-1.4
+124,2004,Georgia,South,41.3,57.9,R+,-14.22,Bush W. (R),Republican,5.2,1.8000000000000003
+125,2008,Georgia,South,46.9,52.1,R+,-12.63,Obama (D),Republican,7.9,2.7
+126,2012,Georgia,South,45.4,53.2,R+,-11.84,Obama (D),Republican,8.7,0.7999999999999989
+127,2016,Georgia,South,45.3,50.4,R+,-7.55,Trump (R),Republican,5.4,-3.299999999999999
+128,2020,Georgia,South,49.5,49.3,R+,-4.3,Biden (D),Republican,5.3,-0.10000000000000053
+129,2024,Georgia,South,48.3,50.5,R+,-0.71,Trump (R),Republican,3.6,-1.6999999999999997
+130,1976,Hawaii,West,50.6,48.1,D+,0.46,Carter (D),Democrat,8.7,
+131,1980,Hawaii,West,44.8,42.9,D+,12.78,Reagan (R),Democrat,5.1,-3.5999999999999996
+132,1984,Hawaii,West,43.8,55.1,D+,6.93,Reagan (R),Democrat,5.2,0.10000000000000053
+133,1988,Hawaii,West,54.3,44.8,D+,17.42,Bush H.W. (R),Democrat,3.0,-2.2
+134,1992,Hawaii,West,48.1,36.7,D+,6.53,Clinton (D),Democrat,4.5,1.5
+135,1996,Hawaii,West,56.9,31.6,D+,19.08,Clinton (D),Democrat,6.0,1.5
+136,2000,Hawaii,West,55.8,37.5,D+,19.12,Bush W. (R),Democrat,4.0,-2.0
+137,2004,Hawaii,West,54.0,45.3,D+,11.3,Bush W. (R),Democrat,3.1,-0.8999999999999999
+138,2008,Hawaii,West,71.8,26.6,D+,38.61,Obama (D),Democrat,5.2,2.1
+139,2012,Hawaii,West,70.5,27.8,D+,39.48,Obama (D),Democrat,5.2,0.0
+140,2016,Hawaii,West,62.2,30.0,D+,32.66,Trump (R),Democrat,2.7,-2.5
+141,2020,Hawaii,West,63.7,34.3,D+,25.53,Biden (D),Democrat,10.5,7.8
+142,2024,Hawaii,West,60.6,37.5,D+,25.06,Trump (R),Democrat,3.0,-7.5
+143,1976,Idaho,West,37.1,59.9,R+,-25.57,Carter (D),Republican,5.8,
+144,1980,Idaho,West,25.2,66.5,R+,-34.42,Reagan (R),Republican,7.5,1.7000000000000002
+145,1984,Idaho,West,26.4,72.4,R+,-28.21,Reagan (R),Republican,7.4,-0.09999999999999964
+146,1988,Idaho,West,36.0,62.1,R+,-18.77,Bush H.W. (R),Republican,5.8,-1.6000000000000005
+147,1992,Idaho,West,28.4,42.0,R+,-26.23,Clinton (D),Republican,6.4,0.6000000000000005
+148,1996,Idaho,West,33.6,52.2,R+,-31.07,Clinton (D),Republican,5.4,-1.0
+149,2000,Idaho,West,27.6,67.2,R+,-42.24,Bush W. (R),Republican,4.7,-0.7000000000000002
+150,2004,Idaho,West,30.3,68.4,R+,-36.16,Bush W. (R),Republican,4.6,-0.10000000000000053
+151,2008,Idaho,West,35.9,61.2,R+,-33.43,Obama (D),Republican,6.8,2.2
+152,2012,Idaho,West,32.4,64.1,R+,-36.77,Obama (D),Republican,7.1,0.2999999999999998
+153,2016,Idaho,West,27.5,59.2,R+,-38.85,Trump (R),Republican,3.6,-3.4999999999999996
+154,2020,Idaho,West,33.1,63.8,R+,-36.29,Biden (D),Republican,4.2,0.6000000000000001
+155,2024,Idaho,West,30.3,66.6,R+,-36.02,Trump (R),Republican,3.8,-0.40000000000000036
+156,1976,Illinois,Midwest,48.1,50.1,R+,-4.11,Carter (D),Republican,6.4,
+157,1980,Illinois,Midwest,41.7,49.6,D+,1.93,Reagan (R),Democrat,8.9,2.5
+158,1984,Illinois,Midwest,43.3,56.2,D+,5.39,Reagan (R),Democrat,8.9,0.0
+159,1988,Illinois,Midwest,48.6,50.7,D+,5.7,Bush H.W. (R),Democrat,6.4,-2.5
+160,1992,Illinois,Midwest,48.6,34.3,D+,10.27,Clinton (D),Democrat,7.3,0.8999999999999995
+161,1996,Illinois,Midwest,54.3,36.8,D+,9.74,Clinton (D),Democrat,5.1,-2.2
+162,2000,Illinois,Midwest,54.6,42.6,D+,11.82,Bush W. (R),Democrat,4.6,-0.5
+163,2004,Illinois,Midwest,54.8,44.5,D+,12.91,Bush W. (R),Democrat,6.1,1.5
+164,2008,Illinois,Midwest,61.8,36.7,D+,18.09,Obama (D),Democrat,7.4,1.3000000000000007
+165,2012,Illinois,Midwest,57.5,40.7,D+,13.23,Obama (D),Democrat,9.0,1.5999999999999996
+166,2016,Illinois,Midwest,55.2,38.4,D+,15.81,Trump (R),Democrat,5.6,-3.4000000000000004
+167,2020,Illinois,Midwest,57.5,40.5,D+,12.78,Biden (D),Democrat,7.8,2.2
+168,2024,Illinois,Midwest,54.2,43.3,D+,12.63,Trump (R),Democrat,4.9,-2.8999999999999995
+169,1976,Indiana,Midwest,45.7,53.3,R+,-9.8,Carter (D),Republican,5.8,
+170,1980,Indiana,Midwest,37.7,56.0,R+,-8.98,Reagan (R),Republican,9.6,3.8
+171,1984,Indiana,Midwest,37.7,61.7,R+,-5.81,Reagan (R),Republican,8.2,-1.4000000000000004
+172,1988,Indiana,Midwest,39.7,59.8,R+,-12.45,Bush H.W. (R),Republican,5.1,-3.0999999999999996
+173,1992,Indiana,Midwest,36.8,42.9,R+,-14.58,Clinton (D),Republican,5.9,0.8000000000000007
+174,1996,Indiana,Midwest,41.5,47.1,R+,-15.77,Clinton (D),Republican,3.5,-2.4000000000000004
+175,2000,Indiana,Midwest,41.0,56.6,R+,-16.55,Bush W. (R),Republican,3.0,-0.5
+176,2004,Indiana,Midwest,39.3,59.9,R+,-18.36,Bush W. (R),Republican,5.5,2.5
+177,2008,Indiana,Midwest,49.8,48.8,R+,-6.33,Obama (D),Republican,7.4,1.9000000000000004
+178,2012,Indiana,Midwest,43.8,54.0,R+,-14.35,Obama (D),Republican,8.2,0.7999999999999989
+179,2016,Indiana,Midwest,37.4,56.4,R+,-22.46,Trump (R),Republican,4.1,-4.1
+180,2020,Indiana,Midwest,41.0,57.0,R+,-20.93,Biden (D),Republican,5.2,1.1000000000000005
+181,2024,Indiana,Midwest,39.5,58.4,R+,-17.8,Trump (R),Republican,4.4,-0.7999999999999998
+182,1976,Iowa,Midwest,48.5,49.5,R+,-3.14,Carter (D),Republican,4.0,
+183,1980,Iowa,Midwest,38.6,51.3,R+,-3.52,Reagan (R),Republican,6.4,2.4000000000000004
+184,1984,Iowa,Midwest,45.9,53.3,D+,10.89,Reagan (R),Democrat,7.1,0.6999999999999993
+185,1988,Iowa,Midwest,54.7,44.5,D+,18.1,Bush H.W. (R),Democrat,4.5,-2.5999999999999996
+186,1992,Iowa,Midwest,43.3,37.3,D+,0.56,Clinton (D),Democrat,4.3,-0.20000000000000018
+187,1996,Iowa,Midwest,50.3,39.9,D+,2.0,Clinton (D),Democrat,3.6,-0.6999999999999997
+188,2000,Iowa,Midwest,48.5,48.2,R+,-0.21,Bush W. (R),Republican,2.9,-0.7000000000000002
+189,2004,Iowa,Midwest,49.2,49.9,D+,1.81,Bush W. (R),Democrat,4.6,1.6999999999999997
+190,2008,Iowa,Midwest,53.9,44.4,D+,2.32,Obama (D),Democrat,4.9,0.3000000000000007
+191,2012,Iowa,Midwest,52.0,46.2,D+,1.99,Obama (D),Democrat,4.9,0.0
+192,2016,Iowa,Midwest,41.7,51.1,R+,-12.35,Trump (R),Republican,3.5,-1.4000000000000004
+193,2020,Iowa,Midwest,44.9,53.1,R+,-12.91,Biden (D),Republican,4.2,0.7000000000000002
+194,2024,Iowa,Midwest,42.5,55.7,R+,-11.95,Trump (R),Republican,3.3,-0.9000000000000004
+195,1976,Kansas,Midwest,44.9,52.5,R+,-9.86,Carter (D),Republican,4.1,
+196,1980,Kansas,Midwest,33.3,57.9,R+,-16.34,Reagan (R),Republican,4.7,0.6000000000000005
+197,1984,Kansas,Midwest,32.6,66.3,R+,-15.72,Reagan (R),Republican,4.9,0.20000000000000018
+198,1988,Kansas,Midwest,42.6,55.8,R+,-5.65,Bush H.W. (R),Republican,4.5,-0.40000000000000036
+199,1992,Kansas,Midwest,33.7,38.9,R+,-13.99,Clinton (D),Republican,4.7,0.20000000000000018
+200,1996,Kansas,Midwest,36.1,54.3,R+,-29.62,Clinton (D),Republican,4.3,-0.40000000000000036
+201,2000,Kansas,Midwest,37.2,58.0,R+,-22.37,Bush W. (R),Republican,3.9,-0.3999999999999999
+202,2004,Kansas,Midwest,36.6,62.0,R+,-23.25,Bush W. (R),Republican,5.4,1.5000000000000004
+203,2008,Kansas,Midwest,41.6,56.5,R+,-22.6,Obama (D),Republican,5.3,-0.10000000000000053
+204,2012,Kansas,Midwest,38.0,59.7,R+,-26.05,Obama (D),Republican,5.6,0.2999999999999998
+205,2016,Kansas,Midwest,35.7,56.0,R+,-24.45,Trump (R),Republican,4.1,-1.5
+206,2020,Kansas,Midwest,41.6,56.2,R+,-19.53,Biden (D),Republican,4.6,0.5
+207,2024,Kansas,Midwest,40.8,56.8,R+,-14.91,Trump (R),Republican,3.8,-0.7999999999999998
+208,1976,Kentucky,South,52.8,45.6,D+,5.2,Carter (D),Democrat,5.2,
+209,1980,Kentucky,South,47.6,49.1,D+,9.1,Reagan (R),Democrat,8.7,3.499999999999999
+210,1984,Kentucky,South,39.4,60.0,R+,-2.45,Reagan (R),Republican,8.7,0.0
+211,1988,Kentucky,South,43.9,55.5,R+,-3.9,Bush H.W. (R),Republican,7.1,-1.5999999999999996
+212,1992,Kentucky,South,44.6,41.3,R+,-3.17,Clinton (D),Republican,6.7,-0.39999999999999947
+213,1996,Kentucky,South,45.8,44.9,R+,-8.41,Clinton (D),Republican,5.6,-1.1000000000000005
+214,2000,Kentucky,South,41.4,56.5,R+,-16.0,Bush W. (R),Republican,4.3,-1.2999999999999998
+215,2004,Kentucky,South,39.7,59.5,R+,-17.53,Bush W. (R),Republican,5.3,1.0
+216,2008,Kentucky,South,41.1,57.4,R+,-23.84,Obama (D),Republican,8.0,2.7
+217,2012,Kentucky,South,37.8,60.5,R+,-27.01,Obama (D),Republican,8.1,0.09999999999999964
+218,2016,Kentucky,South,32.7,62.5,R+,-33.57,Trump (R),Republican,5.1,-3.0
+219,2020,Kentucky,South,36.2,62.1,R+,-30.94,Biden (D),Republican,4.8,-0.2999999999999998
+220,2024,Kentucky,South,33.9,64.4,R+,-29.53,Trump (R),Republican,5.4,0.6000000000000005
+221,1976,Louisiana,South,51.7,46.0,D+,3.81,Carter (D),Democrat,6.9,
+222,1980,Louisiana,South,45.7,51.2,D+,4.99,Reagan (R),Democrat,7.5,0.5999999999999996
+223,1984,Louisiana,South,38.2,60.8,R+,-4.5,Reagan (R),Republican,10.8,3.3000000000000007
+224,1988,Louisiana,South,44.1,54.3,R+,-2.58,Bush H.W. (R),Republican,9.9,-0.9000000000000004
+225,1992,Louisiana,South,45.6,41.0,R+,-1.58,Clinton (D),Republican,7.7,-2.2
+226,1996,Louisiana,South,52.0,39.9,D+,3.65,Clinton (D),Democrat,6.2,-1.5
+227,2000,Louisiana,South,44.9,52.6,R+,-8.42,Bush W. (R),Republican,5.4,-0.7999999999999998
+228,2004,Louisiana,South,42.2,56.7,R+,-12.17,Bush W. (R),Republican,5.6,0.1999999999999993
+229,2008,Louisiana,South,39.9,58.6,R+,-26.29,Obama (D),Republican,5.5,-0.09999999999999964
+230,2012,Louisiana,South,40.6,57.8,R+,-21.42,Obama (D),Republican,6.4,0.9000000000000004
+231,2016,Louisiana,South,38.4,58.1,R+,-22.57,Trump (R),Republican,6.0,-0.40000000000000036
+232,2020,Louisiana,South,39.9,58.5,R+,-23.47,Biden (D),Republican,7.6,1.5999999999999996
+233,2024,Louisiana,South,38.2,60.2,R+,-20.86,Trump (R),Republican,4.6,-3.0
+234,1976,Maine,Northeast,48.1,48.9,R+,-2.97,Carter (D),Republican,8.9,
+235,1980,Maine,Northeast,42.3,45.6,D+,6.79,Reagan (R),Democrat,7.6,-1.3000000000000007
+236,1984,Maine,Northeast,38.8,60.8,R+,-3.8,Reagan (R),Republican,5.7,-1.8999999999999995
+237,1988,Maine,Northeast,43.9,55.3,R+,-3.74,Bush H.W. (R),Republican,3.7,-2.0
+238,1992,Maine,Northeast,38.8,30.4,D+,5.2,Clinton (D),Democrat,7.0,3.3
+239,1996,Maine,Northeast,51.6,30.8,D+,15.85,Clinton (D),Democrat,5.2,-1.7999999999999998
+240,2000,Maine,Northeast,49.1,44.0,D+,4.96,Bush W. (R),Democrat,3.2,-2.0
+241,2004,Maine,Northeast,53.6,44.6,D+,11.65,Bush W. (R),Democrat,4.7,1.5
+242,2008,Maine,Northeast,57.7,40.4,D+,10.28,Obama (D),Democrat,6.5,1.7999999999999998
+243,2012,Maine,Northeast,56.3,41.0,D+,11.79,Obama (D),Democrat,7.1,0.5999999999999996
+244,2016,Maine,Northeast,47.8,44.9,D+,0.97,Trump (R),Democrat,3.6,-3.4999999999999996
+245,2020,Maine,Northeast,53.1,44.0,D+,4.8,Biden (D),Democrat,3.9,0.2999999999999998
+246,2024,Maine,Northeast,52.4,45.5,D+,8.59,Trump (R),Democrat,3.4,-0.5
+247,1976,Maryland,Northeast,53.0,47.0,D+,3.97,Carter (D),Democrat,6.7,
+248,1980,Maryland,Northeast,47.1,44.2,D+,13.85,Reagan (R),Democrat,6.7,0.0
+249,1984,Maryland,Northeast,47.0,52.5,D+,12.82,Reagan (R),Democrat,5.2,-1.5
+250,1988,Maryland,Northeast,48.2,51.1,D+,4.87,Bush H.W. (R),Democrat,4.0,-1.2000000000000002
+251,1992,Maryland,Northeast,49.8,35.6,D+,9.69,Clinton (D),Democrat,6.4,2.4000000000000004
+252,1996,Maryland,Northeast,54.3,38.3,D+,7.81,Clinton (D),Democrat,4.9,-1.5
+253,2000,Maryland,Northeast,56.6,40.2,D+,16.4,Bush W. (R),Democrat,3.7,-1.2000000000000002
+254,2004,Maryland,Northeast,55.9,42.9,D+,15.62,Bush W. (R),Democrat,4.3,0.5999999999999996
+255,2008,Maryland,Northeast,61.9,36.5,D+,18.48,Obama (D),Democrat,5.5,1.2000000000000002
+256,2012,Maryland,Northeast,62.0,35.9,D+,22.71,Obama (D),Democrat,6.8,1.2999999999999998
+257,2016,Maryland,Northeast,60.3,33.9,D+,25.81,Trump (R),Democrat,4.2,-2.5999999999999996
+258,2020,Maryland,Northeast,65.4,32.2,D+,29.52,Biden (D),Democrat,6.6,2.3999999999999995
+259,2024,Maryland,Northeast,62.6,34.1,D+,31.01,Trump (R),Democrat,3.1,-3.4999999999999996
+260,1976,Massachusetts,Northeast,56.1,40.4,D+,14.12,Carter (D),Democrat,8.9,
+261,1980,Massachusetts,Northeast,41.7,41.9,D+,10.43,Reagan (R),Democrat,5.9,-3.0
+262,1984,Massachusetts,Northeast,48.4,51.2,D+,15.54,Reagan (R),Democrat,4.3,-1.6000000000000005
+263,1988,Massachusetts,Northeast,53.2,45.4,D+,15.77,Bush H.W. (R),Democrat,3.5,-0.7999999999999998
+264,1992,Massachusetts,Northeast,47.5,29.0,D+,17.27,Clinton (D),Democrat,8.5,5.0
+265,1996,Massachusetts,Northeast,61.5,28.1,D+,27.81,Clinton (D),Democrat,4.4,-4.1
+266,2000,Massachusetts,Northeast,59.8,32.5,D+,29.04,Bush W. (R),Democrat,2.7,-1.7000000000000002
+267,2004,Massachusetts,Northeast,61.9,36.8,D+,27.97,Bush W. (R),Democrat,4.9,2.2
+268,2008,Massachusetts,Northeast,61.8,36.0,D+,19.02,Obama (D),Democrat,6.3,1.3999999999999995
+269,2012,Massachusetts,Northeast,60.7,37.5,D+,19.65,Obama (D),Democrat,6.7,0.40000000000000036
+270,2016,Massachusetts,Northeast,60.0,32.8,D+,27.08,Trump (R),Democrat,3.8,-2.9000000000000004
+271,2020,Massachusetts,Northeast,65.6,32.1,D+,29.69,Biden (D),Democrat,7.8,4.0
+272,2024,Massachusetts,Northeast,61.2,36.0,D+,27.41,Trump (R),Democrat,4.1,-3.7
+273,1976,Michigan,Midwest,46.4,51.8,R+,-7.59,Carter (D),Republican,9.0,
+274,1980,Michigan,Midwest,42.5,49.0,D+,3.52,Reagan (R),Democrat,12.8,3.8000000000000007
+275,1984,Michigan,Midwest,40.2,59.2,R+,-0.75,Reagan (R),Republican,10.8,-2.0
+276,1988,Michigan,Midwest,45.7,53.6,R+,-0.15,Bush H.W. (R),Republican,7.2,-3.6000000000000005
+277,1992,Michigan,Midwest,43.8,36.4,D+,2.32,Clinton (D),Democrat,8.3,1.1000000000000005
+278,1996,Michigan,Midwest,51.7,38.5,D+,5.18,Clinton (D),Democrat,4.8,-3.500000000000001
+279,2000,Michigan,Midwest,51.3,46.1,D+,4.73,Bush W. (R),Democrat,4.0,-0.7999999999999998
+280,2004,Michigan,Midwest,51.2,47.8,D+,5.94,Bush W. (R),Democrat,7.2,3.2
+281,2008,Michigan,Midwest,57.3,40.9,D+,9.37,Obama (D),Democrat,9.6,2.3999999999999995
+282,2012,Michigan,Midwest,54.0,44.6,D+,5.67,Obama (D),Democrat,9.0,-0.5999999999999996
+283,2016,Michigan,Midwest,47.0,47.2,R+,-2.46,Trump (R),Republican,5.1,-3.9000000000000004
+284,2020,Michigan,Midwest,50.6,47.8,R+,-1.71,Biden (D),Republican,7.1,2.0
+285,2024,Michigan,Midwest,48.2,49.6,D+,0.06,Trump (R),Democrat,5.2,-1.8999999999999995
+286,1976,Minnesota,Midwest,54.9,42.0,D+,11.18,Carter (D),Democrat,5.9,
+287,1980,Minnesota,Midwest,46.5,42.6,D+,15.04,Reagan (R),Democrat,5.9,0.0
+288,1984,Minnesota,Midwest,49.7,49.5,D+,18.52,Reagan (R),Democrat,6.0,0.09999999999999964
+289,1988,Minnesota,Midwest,52.9,45.9,D+,14.9,Bush H.W. (R),Democrat,4.3,-1.7000000000000002
+290,1992,Minnesota,Midwest,43.5,31.9,D+,8.53,Clinton (D),Democrat,5.1,0.7999999999999998
+291,1996,Minnesota,Midwest,51.1,35.0,D+,9.29,Clinton (D),Democrat,3.7,-1.3999999999999995
+292,2000,Minnesota,Midwest,47.9,45.5,D+,2.03,Bush W. (R),Democrat,3.3,-0.40000000000000036
+293,2004,Minnesota,Midwest,51.1,47.6,D+,6.01,Bush W. (R),Democrat,4.4,1.1000000000000005
+294,2008,Minnesota,Midwest,54.1,43.8,D+,3.08,Obama (D),Democrat,6.3,1.8999999999999995
+295,2012,Minnesota,Midwest,52.7,45.0,D+,3.95,Obama (D),Democrat,5.5,-0.7999999999999998
+296,2016,Minnesota,Midwest,46.4,44.9,R+,-0.57,Trump (R),Republican,4.0,-1.5
+297,2020,Minnesota,Midwest,52.4,45.3,D+,2.74,Biden (D),Democrat,5.1,1.0999999999999996
+298,2024,Minnesota,Midwest,50.9,46.7,D+,5.84,Trump (R),Democrat,3.0,-2.0999999999999996
+299,1976,Mississippi,South,49.6,47.7,R+,-0.17,Carter (D),Republican,6.6,
+300,1980,Mississippi,South,48.1,49.4,D+,9.25,Reagan (R),Democrat,8.0,1.4000000000000004
+301,1984,Mississippi,South,37.5,61.8,R+,-6.22,Reagan (R),Republican,10.5,2.5
+302,1988,Mississippi,South,39.1,59.9,R+,-13.24,Bush H.W. (R),Republican,8.7,-1.8000000000000007
+303,1992,Mississippi,South,40.8,49.7,R+,-16.77,Clinton (D),Republican,7.5,-1.1999999999999993
+304,1996,Mississippi,South,44.1,49.2,R+,-14.96,Clinton (D),Republican,5.8,-1.7000000000000002
+305,2000,Mississippi,South,40.7,57.6,R+,-17.74,Bush W. (R),Republican,5.0,-0.7999999999999998
+306,2004,Mississippi,South,39.8,59.4,R+,-17.36,Bush W. (R),Republican,6.6,1.5999999999999996
+307,2008,Mississippi,South,43.0,56.2,R+,-20.66,Obama (D),Republican,7.4,0.8000000000000007
+308,2012,Mississippi,South,43.8,55.3,R+,-15.53,Obama (D),Republican,8.6,1.1999999999999993
+309,2016,Mississippi,South,40.1,57.9,R+,-20.41,Trump (R),Republican,5.8,-2.8
+310,2020,Mississippi,South,41.1,57.6,R+,-21.31,Biden (D),Republican,6.6,0.7999999999999998
+311,2024,Mississippi,South,38.0,60.8,R+,-21.65,Trump (R),Republican,3.6,-2.9999999999999996
+312,1976,Missouri,Midwest,51.1,47.5,D+,1.58,Carter (D),Democrat,6.5,
+313,1980,Missouri,Midwest,44.3,51.2,D+,3.48,Reagan (R),Democrat,7.7,1.2000000000000002
+314,1984,Missouri,Midwest,40.0,60.0,R+,-1.71,Reagan (R),Republican,6.8,-0.9000000000000004
+315,1988,Missouri,Midwest,47.9,51.8,D+,3.81,Bush H.W. (R),Democrat,5.8,-1.0
+316,1992,Missouri,Midwest,44.1,33.9,D+,6.1,Clinton (D),Democrat,6.0,0.20000000000000018
+317,1996,Missouri,Midwest,47.5,41.2,R+,-2.38,Clinton (D),Republican,4.8,-1.2000000000000002
+318,2000,Missouri,Midwest,47.1,50.4,R+,-3.96,Bush W. (R),Republican,3.9,-0.8999999999999999
+319,2004,Missouri,Midwest,46.1,53.3,R+,-4.75,Bush W. (R),Republican,6.0,2.1
+320,2008,Missouri,Midwest,49.2,49.4,R+,-7.51,Obama (D),Republican,7.2,1.2000000000000002
+321,2012,Missouri,Midwest,44.3,53.6,R+,-13.49,Obama (D),Republican,7.0,-0.20000000000000018
+322,2016,Missouri,Midwest,37.9,56.4,R+,-21.86,Trump (R),Republican,4.5,-2.5
+323,2020,Missouri,Midwest,41.4,56.8,R+,-20.21,Biden (D),Republican,5.1,0.5999999999999996
+324,2024,Missouri,Midwest,40.0,58.3,R+,-17.17,Trump (R),Republican,3.6,-1.4999999999999996
+325,1976,Montana,West,45.4,52.8,R+,-9.67,Carter (D),Republican,6.0,
+326,1980,Montana,West,32.4,56.8,R+,-16.72,Reagan (R),Republican,6.6,0.5999999999999996
+327,1984,Montana,West,38.2,60.5,R+,-4.26,Reagan (R),Republican,7.4,0.8000000000000007
+328,1988,Montana,West,46.2,52.1,D+,1.83,Bush H.W. (R),Democrat,6.2,-1.2000000000000002
+329,1992,Montana,West,37.6,35.1,R+,-3.46,Clinton (D),Republican,6.5,0.2999999999999998
+330,1996,Montana,West,41.2,44.1,R+,-12.85,Clinton (D),Republican,5.4,-1.0999999999999996
+331,2000,Montana,West,33.4,58.4,R+,-27.85,Bush W. (R),Republican,4.7,-0.7000000000000002
+332,2004,Montana,West,38.6,59.1,R+,-18.51,Bush W. (R),Republican,4.4,-0.2999999999999998
+333,2008,Montana,West,47.1,49.5,R+,-9.84,Obama (D),Republican,5.8,1.3999999999999995
+334,2012,Montana,West,41.7,55.3,R+,-18.0,Obama (D),Republican,5.5,-0.2999999999999998
+335,2016,Montana,West,35.4,55.6,R+,-24.45,Trump (R),Republican,4.2,-1.2999999999999998
+336,2020,Montana,West,40.5,56.9,R+,-21.33,Biden (D),Republican,4.3,0.09999999999999964
+337,2024,Montana,West,38.4,58.3,R+,-19.08,Trump (R),Republican,2.9,-1.4
+338,1976,Nebraska,Midwest,38.5,59.2,R+,-23.34,Carter (D),Republican,3.2,
+339,1980,Nebraska,Midwest,26.0,65.5,R+,-32.52,Reagan (R),Republican,4.1,0.8999999999999995
+340,1984,Nebraska,Midwest,28.8,70.6,R+,-23.67,Reagan (R),Republican,4.4,0.3000000000000007
+341,1988,Nebraska,Midwest,39.2,60.2,R+,-13.29,Bush H.W. (R),Republican,3.2,-1.2000000000000002
+342,1992,Nebraska,Midwest,29.4,46.6,R+,-29.52,Clinton (D),Republican,2.8,-0.40000000000000036
+343,1996,Nebraska,Midwest,35.0,53.7,R+,-30.58,Clinton (D),Republican,2.6,-0.19999999999999973
+344,2000,Nebraska,Midwest,33.3,62.2,R+,-30.9,Bush W. (R),Republican,2.9,0.2999999999999998
+345,2004,Nebraska,Midwest,32.7,65.9,R+,-31.21,Bush W. (R),Republican,3.9,1.0
+346,2008,Nebraska,Midwest,41.6,56.5,R+,-22.59,Obama (D),Republican,3.7,-0.19999999999999973
+347,2012,Nebraska,Midwest,38.0,59.8,R+,-26.19,Obama (D),Republican,3.9,0.19999999999999973
+348,2016,Nebraska,Midwest,33.7,58.7,R+,-29.32,Trump (R),Republican,3.2,-0.6999999999999997
+349,2020,Nebraska,Midwest,39.2,58.2,R+,-24.11,Biden (D),Republican,3.0,-0.20000000000000018
+350,2024,Nebraska,Midwest,38.9,59.3,R+,-19.34,Trump (R),Republican,2.9,-0.10000000000000009
+351,1976,Nevada,West,45.8,50.2,R+,-6.64,Carter (D),Republican,8.7,
+352,1980,Nevada,West,26.9,62.5,R+,-29.24,Reagan (R),Republican,7.1,-1.5999999999999996
+353,1984,Nevada,West,32.0,65.8,R+,-16.29,Reagan (R),Republican,7.7,0.6000000000000005
+354,1988,Nevada,West,37.9,58.9,R+,-13.83,Bush H.W. (R),Republican,4.9,-2.8
+355,1992,Nevada,West,37.4,34.7,R+,-3.26,Clinton (D),Republican,6.9,2.0
+356,1996,Nevada,West,43.9,42.9,R+,-8.3,Clinton (D),Republican,4.9,-2.0
+357,2000,Nevada,West,46.0,49.5,R+,-4.25,Bush W. (R),Republican,4.4,-0.5
+358,2004,Nevada,West,47.9,50.5,R+,-0.15,Bush W. (R),Republican,4.3,-0.10000000000000053
+359,2008,Nevada,West,55.1,42.7,D+,5.4,Obama (D),Democrat,8.4,4.1000000000000005
+360,2012,Nevada,West,52.4,45.7,D+,2.89,Obama (D),Democrat,10.9,2.5
+361,2016,Nevada,West,47.9,45.5,D+,0.36,Trump (R),Democrat,5.5,-5.4
+362,2020,Nevada,West,50.1,47.7,R+,-2.09,Biden (D),Republican,10.2,4.699999999999999
+363,2024,Nevada,West,47.5,50.6,R+,-1.66,Trump (R),Republican,5.8,-4.3999999999999995
+364,1976,New Hampshire,Northeast,43.5,54.7,R+,-13.59,Carter (D),Republican,6.3,
+365,1980,New Hampshire,Northeast,28.4,57.7,R+,-23.52,Reagan (R),Republican,4.8,-1.5
+366,1984,New Hampshire,Northeast,31.0,68.7,R+,-19.51,Reagan (R),Republican,4.3,-0.5
+367,1988,New Hampshire,Northeast,36.3,62.5,R+,-18.66,Bush H.W. (R),Republican,2.5,-1.7999999999999998
+368,1992,New Hampshire,Northeast,38.9,37.6,R+,-5.32,Clinton (D),Republican,7.4,4.9
+369,1996,New Hampshire,Northeast,49.3,39.4,D+,1.75,Clinton (D),Democrat,3.7,-3.7
+370,2000,New Hampshire,Northeast,46.8,48.1,R+,-1.88,Bush W. (R),Republican,2.5,-1.2000000000000002
+371,2004,New Hampshire,Northeast,50.2,48.9,D+,3.87,Bush W. (R),Democrat,3.5,1.0
+372,2008,New Hampshire,Northeast,54.1,44.5,D+,2.36,Obama (D),Democrat,4.3,0.7999999999999998
+373,2012,New Hampshire,Northeast,52.0,46.4,D+,1.74,Obama (D),Democrat,5.6,1.2999999999999998
+374,2016,New Hampshire,Northeast,46.8,46.5,R+,-1.83,Trump (R),Republican,2.9,-2.6999999999999997
+375,2020,New Hampshire,Northeast,52.7,45.4,D+,2.96,Biden (D),Democrat,4.9,2.0000000000000004
+376,2024,New Hampshire,Northeast,50.6,47.9,D+,4.32,Trump (R),Democrat,2.8,-2.1000000000000005
+377,1976,New Jersey,Northeast,47.9,50.1,R+,-4.31,Carter (D),Republican,10.6,
+378,1980,New Jersey,Northeast,38.6,52.0,R+,-4.21,Reagan (R),Republican,7.4,-3.1999999999999993
+379,1984,New Jersey,Northeast,39.2,60.1,R+,-2.7,Reagan (R),Republican,5.9,-1.5
+380,1988,New Jersey,Northeast,42.6,56.2,R+,-6.0,Bush H.W. (R),Republican,3.8,-2.1000000000000005
+381,1992,New Jersey,Northeast,43.0,40.6,R+,-4.07,Clinton (D),Republican,8.7,4.8999999999999995
+382,1996,New Jersey,Northeast,53.7,35.9,D+,10.46,Clinton (D),Democrat,5.9,-2.799999999999999
+383,2000,New Jersey,Northeast,56.1,40.3,D+,15.88,Bush W. (R),Democrat,3.8,-2.1000000000000005
+384,2004,New Jersey,Northeast,52.9,46.2,D+,9.23,Bush W. (R),Democrat,4.5,0.7000000000000002
+385,2008,New Jersey,Northeast,57.1,41.6,D+,8.35,Obama (D),Democrat,6.4,1.9000000000000004
+386,2012,New Jersey,Northeast,58.2,40.5,D+,14.04,Obama (D),Democrat,9.4,3.0
+387,2016,New Jersey,Northeast,55.0,41.0,D+,12.34,Trump (R),Democrat,4.8,-4.6000000000000005
+388,2020,New Jersey,Northeast,57.1,41.3,D+,11.6,Biden (D),Democrat,7.2,2.4000000000000004
+389,2024,New Jersey,Northeast,51.8,45.9,D+,7.53,Trump (R),Democrat,4.6,-2.6000000000000005
+390,1976,New Mexico,West,48.3,50.7,R+,-4.59,Carter (D),Republican,9.0,
+391,1980,New Mexico,West,36.8,55.0,R+,-9.21,Reagan (R),Republican,8.0,-1.0
+392,1984,New Mexico,West,39.2,59.7,R+,-2.36,Reagan (R),Republican,7.9,-0.09999999999999964
+393,1988,New Mexico,West,46.9,51.9,D+,2.78,Bush H.W. (R),Democrat,6.9,-1.0
+394,1992,New Mexico,West,45.9,37.3,D+,3.37,Clinton (D),Democrat,7.2,0.2999999999999998
+395,1996,New Mexico,West,49.2,41.9,R+,-1.42,Clinton (D),Republican,7.3,0.09999999999999964
+396,2000,New Mexico,West,47.9,47.8,R+,-0.48,Bush W. (R),Republican,5.0,-2.3
+397,2004,New Mexico,West,49.0,49.8,D+,1.69,Bush W. (R),Democrat,5.5,0.5
+398,2008,New Mexico,West,56.9,41.8,D+,7.95,Obama (D),Democrat,5.2,-0.2999999999999998
+399,2012,New Mexico,West,53.0,42.8,D+,6.66,Obama (D),Democrat,6.9,1.7000000000000002
+400,2016,New Mexico,West,48.3,40.0,D+,7.08,Trump (R),Democrat,7.0,0.09999999999999964
+401,2020,New Mexico,West,54.3,43.5,D+,6.5,Biden (D),Democrat,8.4,1.4000000000000004
+402,2024,New Mexico,West,51.9,45.9,D+,7.64,Trump (R),Democrat,4.4,-4.0
+403,1976,New York,Northeast,51.9,47.5,D+,2.34,Carter (D),Democrat,10.2,
+404,1980,New York,Northeast,44.0,46.7,D+,7.67,Reagan (R),Democrat,7.5,-2.6999999999999993
+405,1984,New York,Northeast,45.8,53.8,D+,10.3,Reagan (R),Democrat,7.0,-0.5
+406,1988,New York,Northeast,51.6,47.5,D+,11.94,Bush H.W. (R),Democrat,4.5,-2.5
+407,1992,New York,Northeast,49.7,33.9,D+,12.05,Clinton (D),Democrat,8.7,4.199999999999999
+408,1996,New York,Northeast,59.5,30.6,D+,22.56,Clinton (D),Democrat,6.3,-2.3999999999999995
+409,2000,New York,Northeast,60.2,35.2,D+,25.66,Bush W. (R),Democrat,4.3,-2.0
+410,2004,New York,Northeast,58.4,40.1,D+,21.06,Bush W. (R),Democrat,5.3,1.0
+411,2008,New York,Northeast,62.9,36.0,D+,19.78,Obama (D),Democrat,6.3,1.0
+412,2012,New York,Northeast,63.3,35.2,D+,24.67,Obama (D),Democrat,8.4,2.1000000000000005
+413,2016,New York,Northeast,59.0,36.5,D+,21.32,Trump (R),Democrat,4.9,-3.5
+414,2020,New York,Northeast,60.9,37.8,D+,18.91,Biden (D),Democrat,8.9,4.0
+415,2024,New York,Northeast,55.6,43.1,D+,14.18,Trump (R),Democrat,4.4,-4.5
+416,1976,North Carolina,South,55.3,44.2,D+,9.0,Carter (D),Democrat,6.2,
+417,1980,North Carolina,South,47.2,49.3,D+,8.41,Reagan (R),Democrat,6.6,0.39999999999999947
+418,1984,North Carolina,South,37.9,61.9,R+,-5.72,Reagan (R),Republican,6.5,-0.09999999999999964
+419,1988,North Carolina,South,41.7,58.0,R+,-8.51,Bush H.W. (R),Republican,3.6,-2.9
+420,1992,North Carolina,South,42.7,43.4,R+,-7.83,Clinton (D),Republican,6.0,2.4
+421,1996,North Carolina,South,44.0,48.7,R+,-14.53,Clinton (D),Republican,4.1,-1.9000000000000004
+422,2000,North Carolina,South,43.2,56.0,R+,-13.47,Bush W. (R),Republican,4.1,0.0
+423,2004,North Carolina,South,43.6,56.0,R+,-10.0,Bush W. (R),Republican,5.3,1.2000000000000002
+424,2008,North Carolina,South,49.7,49.4,R+,-7.04,Obama (D),Republican,8.3,3.000000000000001
+425,2012,North Carolina,South,48.4,50.4,R+,-6.0,Obama (D),Republican,9.5,1.1999999999999993
+426,2016,North Carolina,South,46.2,49.8,R+,-6.03,Trump (R),Republican,5.1,-4.4
+427,2020,North Carolina,South,48.6,49.9,R+,-5.91,Biden (D),Republican,5.9,0.8000000000000007
+428,2024,North Carolina,South,47.6,50.9,R+,-1.76,Trump (R),Republican,3.7,-2.2
+429,1976,North Dakota,Midwest,45.8,51.7,R+,-8.11,Carter (D),Republican,4.1,
+430,1980,North Dakota,Midwest,26.3,64.2,R+,-31.35,Reagan (R),Republican,5.1,1.0
+431,1984,North Dakota,Midwest,33.8,64.8,R+,-13.13,Reagan (R),Republican,5.4,0.3000000000000007
+432,1988,North Dakota,Midwest,43.0,56.0,R+,-5.39,Bush H.W. (R),Republican,4.6,-0.8000000000000007
+433,1992,North Dakota,Midwest,32.2,44.2,R+,-22.66,Clinton (D),Republican,4.5,-0.09999999999999964
+434,1996,North Dakota,Midwest,40.1,46.9,R+,-17.29,Clinton (D),Republican,3.1,-1.4
+435,2000,North Dakota,Midwest,33.1,60.7,R+,-29.99,Bush W. (R),Republican,2.9,-0.20000000000000018
+436,2004,North Dakota,Midwest,35.5,62.9,R+,-25.33,Bush W. (R),Republican,3.4,0.5
+437,2008,North Dakota,Midwest,44.5,53.2,R+,-16.23,Obama (D),Republican,3.4,0.0
+438,2012,North Dakota,Midwest,38.7,58.3,R+,-24.16,Obama (D),Republican,3.0,-0.3999999999999999
+439,2016,North Dakota,Midwest,27.2,63.0,R+,-41.84,Trump (R),Republican,2.9,-0.10000000000000009
+440,2020,North Dakota,Midwest,31.8,65.1,R+,-38.97,Biden (D),Republican,4.5,1.6
+441,2024,North Dakota,Midwest,30.5,67.0,R+,-35.89,Trump (R),Republican,2.5,-2.0
+442,1976,Ohio,Midwest,48.9,48.7,R+,-1.83,Carter (D),Republican,7.6,
+443,1980,Ohio,Midwest,40.9,51.5,R+,-0.86,Reagan (R),Republican,9.1,1.5
+444,1984,Ohio,Midwest,40.1,58.9,R+,-0.6,Reagan (R),Republican,9.1,0.0
+445,1988,Ohio,Midwest,44.1,55.0,R+,-3.15,Bush H.W. (R),Republican,5.7,-3.3999999999999995
+446,1992,Ohio,Midwest,40.2,38.3,R+,-4.57,Clinton (D),Republican,7.3,1.5999999999999996
+447,1996,Ohio,Midwest,47.4,41.0,R+,-2.28,Clinton (D),Republican,5.0,-2.3
+448,2000,Ohio,Midwest,46.5,50.0,R+,-4.18,Bush W. (R),Republican,3.9,-1.1
+449,2004,Ohio,Midwest,48.7,50.8,D+,0.37,Bush W. (R),Democrat,6.3,2.4
+450,2008,Ohio,Midwest,51.4,46.8,R+,-2.71,Obama (D),Republican,7.7,1.4000000000000004
+451,2012,Ohio,Midwest,50.6,47.6,R+,-0.9,Obama (D),Republican,7.3,-0.40000000000000036
+452,2016,Ohio,Midwest,43.2,51.3,R+,-10.76,Trump (R),Republican,5.2,-2.0999999999999996
+453,2020,Ohio,Midwest,45.2,53.2,R+,-12.69,Biden (D),Republican,6.4,1.2000000000000002
+454,2024,Ohio,Midwest,43.7,54.8,R+,-9.81,Trump (R),Republican,4.5,-1.9000000000000004
+455,1976,Oklahoma,South,48.7,50.0,R+,-3.34,Carter (D),Republican,5.3,
+456,1980,Oklahoma,South,35.0,60.5,R+,-16.13,Reagan (R),Republican,4.4,-0.8999999999999995
+457,1984,Oklahoma,South,30.7,68.6,R+,-19.88,Reagan (R),Republican,6.9,2.5
+458,1988,Oklahoma,South,41.3,57.9,R+,-8.98,Bush H.W. (R),Republican,6.3,-0.6000000000000005
+459,1992,Oklahoma,South,34.0,42.6,R+,-18.15,Clinton (D),Republican,5.5,-0.7999999999999998
+460,1996,Oklahoma,South,40.4,48.3,R+,-18.27,Clinton (D),Republican,4.0,-1.5
+461,2000,Oklahoma,South,38.4,60.3,R+,-22.7,Bush W. (R),Republican,2.9,-1.1
+462,2004,Oklahoma,South,34.4,65.6,R+,-28.65,Bush W. (R),Republican,4.5,1.6
+463,2008,Oklahoma,South,34.4,65.6,R+,-38.67,Obama (D),Republican,4.2,-0.2999999999999998
+464,2012,Oklahoma,South,33.2,66.8,R+,-37.47,Obama (D),Republican,5.1,0.8999999999999995
+465,2016,Oklahoma,South,28.9,65.3,R+,-40.84,Trump (R),Republican,4.6,-0.5
+466,2020,Oklahoma,South,32.3,65.4,R+,-38.42,Biden (D),Republican,5.3,0.7000000000000002
+467,2024,Oklahoma,South,31.9,66.2,R+,-33.44,Trump (R),Republican,3.3,-2.0
+468,1976,Oregon,West,47.6,47.8,R+,-2.28,Carter (D),Republican,9.3,
+469,1980,Oregon,West,38.7,48.3,R+,-0.49,Reagan (R),Republican,8.9,-0.40000000000000036
+470,1984,Oregon,West,43.7,55.9,D+,6.13,Reagan (R),Democrat,9.2,0.29999999999999893
+471,1988,Oregon,West,51.3,46.6,D+,12.57,Bush H.W. (R),Democrat,5.4,-3.799999999999999
+472,1992,Oregon,West,42.5,32.5,D+,6.36,Clinton (D),Democrat,7.2,1.7999999999999998
+473,1996,Oregon,West,47.2,39.1,R+,-0.08,Clinton (D),Republican,5.8,-1.4000000000000004
+474,2000,Oregon,West,47.0,46.5,R+,-0.07,Bush W. (R),Republican,5.2,-0.5999999999999996
+475,2004,Oregon,West,51.3,47.2,D+,6.71,Bush W. (R),Democrat,6.9,1.7000000000000002
+476,2008,Oregon,West,56.7,40.4,D+,9.45,Obama (D),Democrat,8.2,1.299999999999999
+477,2012,Oregon,West,54.2,42.1,D+,8.61,Obama (D),Democrat,8.5,0.3000000000000007
+478,2016,Oregon,West,50.1,39.1,D+,10.09,Trump (R),Democrat,4.4,-4.1
+479,2020,Oregon,West,56.5,40.4,D+,12.07,Biden (D),Democrat,6.6,2.1999999999999993
+480,2024,Oregon,West,55.3,41.0,D+,16.37,Trump (R),Democrat,4.3,-2.3
+481,1976,Pennsylvania,Northeast,50.4,47.7,D+,0.61,Carter (D),Democrat,8.0,
+482,1980,Pennsylvania,Northeast,42.5,49.6,D+,2.89,Reagan (R),Democrat,8.2,0.1999999999999993
+483,1984,Pennsylvania,Northeast,46.0,53.3,D+,10.94,Reagan (R),Democrat,8.5,0.3000000000000007
+484,1988,Pennsylvania,Northeast,48.4,50.7,D+,5.46,Bush H.W. (R),Democrat,5.0,-3.5
+485,1992,Pennsylvania,Northeast,45.1,36.1,D+,4.19,Clinton (D),Democrat,7.2,2.2
+486,1996,Pennsylvania,Northeast,49.2,40.0,D+,0.85,Clinton (D),Democrat,5.3,-1.9000000000000004
+487,2000,Pennsylvania,Northeast,50.6,46.4,D+,3.76,Bush W. (R),Democrat,4.3,-1.0
+488,2004,Pennsylvania,Northeast,50.9,48.4,D+,5.0,Bush W. (R),Democrat,5.2,0.9000000000000004
+489,2008,Pennsylvania,Northeast,54.5,44.2,D+,3.08,Obama (D),Democrat,6.2,1.0
+490,2012,Pennsylvania,Northeast,52.0,46.6,D+,1.53,Obama (D),Democrat,7.6,1.3999999999999995
+491,2016,Pennsylvania,Northeast,47.5,48.2,R+,-2.98,Trump (R),Republican,5.3,-2.3
+492,2020,Pennsylvania,Northeast,49.9,48.7,R+,-3.34,Biden (D),Republican,7.8,2.5
+493,2024,Pennsylvania,Northeast,48.5,50.2,R+,-0.23,Trump (R),Republican,3.7,-4.1
+494,1976,Rhode Island,Northeast,55.4,44.1,D+,9.24,Carter (D),Democrat,8.6,
+495,1980,Rhode Island,Northeast,47.7,37.2,D+,22.94,Reagan (R),Democrat,7.3,-1.2999999999999998
+496,1984,Rhode Island,Northeast,48.0,51.7,D+,14.68,Reagan (R),Democrat,4.7,-2.5999999999999996
+497,1988,Rhode Island,Northeast,55.6,43.9,D+,19.56,Bush H.W. (R),Democrat,3.1,-1.6
+498,1992,Rhode Island,Northeast,47.0,29.0,D+,16.78,Clinton (D),Democrat,8.6,5.5
+499,1996,Rhode Island,Northeast,59.7,26.8,D+,28.54,Clinton (D),Democrat,5.3,-3.3
+500,2000,Rhode Island,Northeast,61.0,31.9,D+,30.76,Bush W. (R),Democrat,3.9,-1.4
+501,2004,Rhode Island,Northeast,59.4,38.7,D+,23.64,Bush W. (R),Democrat,4.8,0.8999999999999999
+502,2008,Rhode Island,Northeast,62.9,35.1,D+,21.02,Obama (D),Democrat,9.1,4.3
+503,2012,Rhode Island,Northeast,62.7,35.2,D+,24.1,Obama (D),Democrat,9.7,0.5999999999999996
+504,2016,Rhode Island,Northeast,54.4,38.9,D+,14.39,Trump (R),Democrat,4.9,-4.799999999999999
+505,2020,Rhode Island,Northeast,59.4,38.6,D+,16.66,Biden (D),Democrat,7.0,2.0999999999999996
+506,2024,Rhode Island,Northeast,55.5,41.8,D+,15.66,Trump (R),Democrat,4.5,-2.5
+507,1976,South Carolina,South,56.2,43.1,D+,11.03,Carter (D),Democrat,6.9,
+508,1980,South Carolina,South,48.0,49.6,D+,9.04,Reagan (R),Democrat,7.2,0.2999999999999998
+509,1984,South Carolina,South,35.6,63.6,R+,-9.9,Reagan (R),Republican,6.7,-0.5
+510,1988,South Carolina,South,37.6,61.5,R+,-16.34,Bush H.W. (R),Republican,4.3,-2.4000000000000004
+511,1992,South Carolina,South,39.9,48.0,R+,-16.18,Clinton (D),Republican,6.9,2.6000000000000005
+512,1996,South Carolina,South,43.9,49.9,R+,-15.91,Clinton (D),Republican,5.7,-1.2000000000000002
+513,2000,South Carolina,South,40.9,56.8,R+,-16.83,Bush W. (R),Republican,3.6,-2.1
+514,2004,South Carolina,South,40.9,58.0,R+,-14.78,Bush W. (R),Republican,6.9,3.3000000000000003
+515,2008,South Carolina,South,44.9,53.9,R+,-16.47,Obama (D),Republican,8.5,1.5999999999999996
+516,2012,South Carolina,South,44.1,54.6,R+,-14.55,Obama (D),Republican,8.5,0.0
+517,2016,South Carolina,South,40.7,54.9,R+,-17.15,Trump (R),Republican,4.5,-4.0
+518,2020,South Carolina,South,43.4,55.1,R+,-16.39,Biden (D),Republican,5.1,0.5999999999999996
+519,2024,South Carolina,South,40.4,58.2,R+,-16.62,Trump (R),Republican,4.4,-0.6999999999999993
+520,1976,South Dakota,Midwest,48.9,50.4,R+,-3.59,Carter (D),Republican,3.6,
+521,1980,South Dakota,Midwest,31.7,60.5,R+,-20.66,Reagan (R),Republican,5.1,1.4999999999999996
+522,1984,South Dakota,Midwest,36.5,63.0,R+,-8.26,Reagan (R),Republican,4.5,-0.5999999999999996
+523,1988,South Dakota,Midwest,46.5,52.8,D+,1.42,Bush H.W. (R),Democrat,4.0,-0.5
+524,1992,South Dakota,Midwest,37.1,40.7,R+,-11.43,Clinton (D),Republican,3.5,-0.5
+525,1996,South Dakota,Midwest,43.0,46.5,R+,-13.34,Clinton (D),Republican,3.2,-0.2999999999999998
+526,2000,South Dakota,Midwest,37.6,60.3,R+,-23.77,Bush W. (R),Republican,2.7,-0.5
+527,2004,South Dakota,Midwest,38.4,59.9,R+,-19.34,Bush W. (R),Republican,3.7,1.0
+528,2008,South Dakota,Midwest,44.7,53.2,R+,-15.97,Obama (D),Republican,3.7,0.0
+529,2012,South Dakota,Midwest,39.9,57.9,R+,-22.37,Obama (D),Republican,3.9,0.19999999999999973
+530,2016,South Dakota,Midwest,31.7,61.5,R+,-34.17,Trump (R),Republican,3.2,-0.6999999999999997
+531,2020,South Dakota,Midwest,35.6,61.8,R+,-31.41,Biden (D),Republican,3.1,-0.10000000000000009
+532,2024,South Dakota,Midwest,34.2,63.4,R+,-28.39,Trump (R),Republican,1.9,-1.2000000000000002
+533,1976,Tennessee,South,55.9,42.9,D+,11.04,Carter (D),Democrat,6.4,
+534,1980,Tennessee,South,48.4,48.7,D+,10.31,Reagan (R),Democrat,8.0,1.5999999999999996
+535,1984,Tennessee,South,41.6,57.8,D+,1.98,Reagan (R),Democrat,8.2,0.1999999999999993
+536,1988,Tennessee,South,41.5,57.9,R+,-8.63,Bush H.W. (R),Republican,5.7,-2.499999999999999
+537,1992,Tennessee,South,47.1,42.4,R+,-1.71,Clinton (D),Republican,6.2,0.5
+538,1996,Tennessee,South,48.0,45.6,R+,-6.9,Clinton (D),Republican,5.4,-0.7999999999999998
+539,2000,Tennessee,South,47.3,51.1,R+,-4.47,Bush W. (R),Republican,3.9,-1.5000000000000004
+540,2004,Tennessee,South,42.5,56.8,R+,-11.91,Bush W. (R),Republican,5.6,1.6999999999999997
+541,2008,Tennessee,South,41.8,56.8,R+,-22.64,Obama (D),Republican,7.9,2.3000000000000007
+542,2012,Tennessee,South,39.0,59.4,R+,-24.63,Obama (D),Republican,7.8,-0.10000000000000053
+543,2016,Tennessee,South,34.7,60.7,R+,-29.48,Trump (R),Republican,4.8,-3.0
+544,2020,Tennessee,South,37.5,60.7,R+,-28.2,Biden (D),Republican,5.9,1.1000000000000005
+545,2024,Tennessee,South,34.4,64.0,R+,-28.62,Trump (R),Republican,3.7,-2.2
+546,1976,Texas,South,51.1,48.0,D+,1.09,Carter (D),Democrat,5.7,
+547,1980,Texas,South,41.4,55.3,R+,-3.72,Reagan (R),Republican,5.3,-0.40000000000000036
+548,1984,Texas,South,36.1,63.6,R+,-9.23,Reagan (R),Republican,6.2,0.9000000000000004
+549,1988,Texas,South,43.3,56.0,R+,-4.89,Bush H.W. (R),Republican,7.1,0.8999999999999995
+550,1992,Texas,South,37.1,40.6,R+,-11.39,Clinton (D),Republican,7.7,0.6000000000000005
+551,1996,Texas,South,43.8,48.8,R+,-14.79,Clinton (D),Republican,5.6,-2.1000000000000005
+552,2000,Texas,South,38.0,59.3,R+,-22.45,Bush W. (R),Republican,4.1,-1.5
+553,2004,Texas,South,38.2,61.1,R+,-20.53,Bush W. (R),Republican,5.9,1.8000000000000007
+554,2008,Texas,South,43.6,55.4,R+,-19.25,Obama (D),Republican,5.6,-0.3000000000000007
+555,2012,Texas,South,41.4,57.1,R+,-19.94,Obama (D),Republican,6.5,0.9000000000000004
+556,2016,Texas,South,43.1,52.1,R+,-11.65,Trump (R),Republican,4.8,-1.7000000000000002
+557,2020,Texas,South,46.5,52.1,R+,-10.2,Biden (D),Republican,7.0,2.2
+558,2024,Texas,South,42.4,56.0,R+,-12.38,Trump (R),Republican,4.2,-2.8
+559,1976,Utah,West,33.6,62.4,R+,-32.06,Carter (D),Republican,5.4,
+560,1980,Utah,West,20.6,72.8,R+,-45.32,Reagan (R),Republican,6.8,1.3999999999999995
+561,1984,Utah,West,24.7,74.5,R+,-31.9,Reagan (R),Republican,6.4,-0.39999999999999947
+562,1988,Utah,West,32.0,66.2,R+,-26.97,Bush H.W. (R),Republican,4.7,-1.7000000000000002
+563,1992,Utah,West,24.7,43.4,R+,-34.42,Clinton (D),Republican,4.7,0.0
+564,1996,Utah,West,33.3,54.4,R+,-33.51,Clinton (D),Republican,3.4,-1.3000000000000003
+565,2000,Utah,West,26.3,66.8,R+,-43.99,Bush W. (R),Republican,3.6,0.20000000000000018
+566,2004,Utah,West,26.0,71.5,R+,-44.2,Bush W. (R),Republican,4.6,0.9999999999999996
+567,2008,Utah,West,34.2,62.2,R+,-36.43,Obama (D),Republican,3.6,-0.9999999999999996
+568,2012,Utah,West,24.7,72.5,R+,-53.18,Obama (D),Republican,4.6,0.9999999999999996
+569,2016,Utah,West,27.2,45.0,R+,-26.99,Trump (R),Republican,3.2,-1.3999999999999995
+570,2020,Utah,West,37.2,57.5,R+,-25.93,Biden (D),Republican,3.8,0.5999999999999996
+571,2024,Utah,West,37.2,58.4,R+,-20.71,Trump (R),Republican,3.3,-0.5
+572,1976,Vermont,Northeast,43.1,54.3,R+,-13.59,Carter (D),Republican,7.8,
+573,1980,Vermont,Northeast,38.4,44.4,D+,3.41,Reagan (R),Democrat,6.1,-1.7000000000000002
+574,1984,Vermont,Northeast,40.8,57.9,D+,1.01,Reagan (R),Democrat,4.5,-1.5999999999999996
+575,1988,Vermont,Northeast,47.6,51.1,D+,4.24,Bush H.W. (R),Democrat,3.2,-1.2999999999999998
+576,1992,Vermont,Northeast,46.1,30.4,D+,13.6,Clinton (D),Democrat,5.8,2.5999999999999996
+577,1996,Vermont,Northeast,53.4,31.1,D+,16.9,Clinton (D),Democrat,4.2,-1.5999999999999996
+578,2000,Vermont,Northeast,50.6,40.7,D+,10.34,Bush W. (R),Democrat,2.8,-1.4000000000000004
+579,2004,Vermont,Northeast,58.9,38.8,D+,23.09,Bush W. (R),Democrat,3.4,0.6000000000000001
+580,2008,Vermont,Northeast,67.5,30.4,D+,30.42,Obama (D),Democrat,5.2,1.8000000000000003
+581,2012,Vermont,Northeast,66.6,31.0,D+,32.57,Obama (D),Democrat,4.6,-0.6000000000000005
+582,2016,Vermont,Northeast,56.7,30.3,D+,28.15,Trump (R),Democrat,3.1,-1.4999999999999996
+583,2020,Vermont,Northeast,66.1,30.7,D+,32.06,Biden (D),Democrat,4.2,1.1
+584,2024,Vermont,Northeast,63.8,32.3,D+,34.27,Trump (R),Democrat,2.5,-1.7000000000000002
+585,1976,Virginia,South,48.0,49.3,R+,-3.48,Carter (D),Republican,5.8,
+586,1980,Virginia,South,40.3,53.0,R+,-3.02,Reagan (R),Republican,5.4,-0.39999999999999947
+587,1984,Virginia,South,37.1,62.3,R+,-7.01,Reagan (R),Republican,5.2,-0.20000000000000018
+588,1988,Virginia,South,39.2,59.7,R+,-12.91,Bush H.W. (R),Republican,4.0,-1.2000000000000002
+589,1992,Virginia,South,40.6,45.0,R+,-12.02,Clinton (D),Republican,5.7,1.7000000000000002
+590,1996,Virginia,South,45.1,47.1,R+,-11.59,Clinton (D),Republican,4.1,-1.6000000000000005
+591,2000,Virginia,South,44.4,52.5,R+,-8.83,Bush W. (R),Republican,2.2,-1.8999999999999995
+592,2004,Virginia,South,45.5,53.7,R+,-5.78,Bush W. (R),Republican,3.6,1.4
+593,2008,Virginia,South,52.6,46.3,R+,-1.01,Obama (D),Republican,4.9,1.3000000000000003
+594,2012,Virginia,South,51.2,47.3,D+,0.01,Obama (D),Democrat,5.6,0.6999999999999993
+595,2016,Virginia,South,49.8,44.4,D+,3.43,Trump (R),Democrat,4.0,-1.5999999999999996
+596,2020,Virginia,South,54.1,44.0,D+,5.77,Biden (D),Democrat,5.3,1.2999999999999998
+597,2024,Virginia,South,51.8,46.1,D+,7.4,Trump (R),Democrat,2.9,-2.4
+598,1976,Washington,West,46.1,50.0,R+,-6.15,Carter (D),Republican,9.2,
+599,1980,Washington,West,37.3,49.7,R+,-3.58,Reagan (R),Republican,8.4,-0.7999999999999989
+600,1984,Washington,West,42.9,55.8,D+,5.2,Reagan (R),Democrat,8.9,0.5
+601,1988,Washington,West,50.0,48.5,D+,9.42,Bush H.W. (R),Democrat,6.0,-2.9000000000000004
+602,1992,Washington,West,43.4,32.0,D+,8.27,Clinton (D),Democrat,7.5,1.5
+603,1996,Washington,West,49.8,37.3,D+,4.92,Clinton (D),Democrat,5.5,-2.0
+604,2000,Washington,West,50.1,44.6,D+,5.35,Bush W. (R),Democrat,5.2,-0.2999999999999998
+605,2004,Washington,West,52.8,45.6,D+,9.78,Bush W. (R),Democrat,5.9,0.7000000000000002
+606,2008,Washington,West,57.3,40.3,D+,10.13,Obama (D),Democrat,6.0,0.09999999999999964
+607,2012,Washington,West,55.8,41.0,D+,11.33,Obama (D),Democrat,7.4,1.4000000000000004
+608,2016,Washington,West,52.5,36.8,D+,15.35,Trump (R),Democrat,4.9,-2.5
+609,2020,Washington,West,58.0,38.8,D+,15.31,Biden (D),Democrat,6.9,2.0
+610,2024,Washington,West,57.2,39.0,D+,20.43,Trump (R),Democrat,4.4,-2.5
+611,1976,West Virginia,South,58.1,41.9,D+,14.03,Carter (D),Democrat,6.9,
+612,1980,West Virginia,South,49.8,45.3,D+,15.35,Reagan (R),Democrat,10.9,4.0
+613,1984,West Virginia,South,44.6,55.1,D+,7.79,Reagan (R),Democrat,14.3,3.4000000000000004
+614,1988,West Virginia,South,52.2,47.5,D+,12.56,Bush H.W. (R),Democrat,9.4,-4.9
+615,1992,West Virginia,South,48.4,35.4,D+,8.63,Clinton (D),Democrat,10.9,1.5
+616,1996,West Virginia,South,51.5,36.8,D+,7.24,Clinton (D),Democrat,7.5,-3.4000000000000004
+617,2000,West Virginia,South,45.6,51.9,R+,-7.02,Bush W. (R),Republican,5.4,-2.0999999999999996
+618,2004,West Virginia,South,43.2,56.1,R+,-10.47,Bush W. (R),Republican,5.2,-0.20000000000000018
+619,2008,West Virginia,South,42.5,55.6,R+,-20.72,Obama (D),Republican,5.1,-0.10000000000000053
+620,2012,West Virginia,South,35.5,62.1,R+,-31.28,Obama (D),Republican,7.2,2.1000000000000005
+621,2016,West Virginia,South,26.2,67.8,R+,-46.55,Trump (R),Republican,5.8,-1.4000000000000004
+622,2020,West Virginia,South,29.7,68.6,R+,-44.14,Biden (D),Republican,6.6,0.7999999999999998
+623,2024,West Virginia,South,28.1,69.9,R+,-41.19,Trump (R),Republican,4.1,-2.5
+624,1976,Wisconsin,Midwest,49.5,47.8,R+,-0.38,Carter (D),Republican,5.4,
+625,1980,Wisconsin,Midwest,43.2,47.9,D+,5.43,Reagan (R),Democrat,8.4,3.0
+626,1984,Wisconsin,Midwest,45.0,54.2,D+,9.09,Reagan (R),Democrat,7.0,-1.4000000000000004
+627,1988,Wisconsin,Midwest,51.4,47.8,D+,11.45,Bush H.W. (R),Democrat,4.2,-2.8
+628,1992,Wisconsin,Midwest,41.1,36.8,R+,-1.32,Clinton (D),Republican,5.0,0.7999999999999998
+629,1996,Wisconsin,Midwest,48.8,38.5,D+,2.37,Clinton (D),Democrat,3.5,-1.5
+630,2000,Wisconsin,Midwest,47.8,47.6,R+,-0.31,Bush W. (R),Republican,3.6,0.10000000000000009
+631,2004,Wisconsin,Midwest,49.7,49.3,D+,2.87,Bush W. (R),Democrat,4.8,1.1999999999999997
+632,2008,Wisconsin,Midwest,56.2,42.3,D+,6.73,Obama (D),Democrat,6.1,1.2999999999999998
+633,2012,Wisconsin,Midwest,52.8,45.9,D+,3.1,Obama (D),Democrat,6.8,0.7000000000000002
+634,2016,Wisconsin,Midwest,46.5,47.2,R+,-3.04,Trump (R),Republican,3.8,-3.0
+635,2020,Wisconsin,Midwest,49.4,48.8,R+,-3.9,Biden (D),Republican,5.0,1.2000000000000002
+636,2024,Wisconsin,Midwest,48.7,49.6,D+,0.63,Trump (R),Democrat,3.1,-1.9
+637,1976,Wyoming,West,39.8,59.3,R+,-21.77,Carter (D),Republican,3.8,
+638,1980,Wyoming,West,28.0,62.6,R+,-27.65,Reagan (R),Republican,4.4,0.6000000000000005
+639,1984,Wyoming,West,28.2,70.5,R+,-24.46,Reagan (R),Republican,6.5,2.0999999999999996
+640,1988,Wyoming,West,38.0,60.5,R+,-15.05,Bush H.W. (R),Republican,6.3,-0.20000000000000018
+641,1992,Wyoming,West,34.0,39.5,R+,-14.49,Clinton (D),Republican,5.3,-1.0
+642,1996,Wyoming,West,36.8,49.8,R+,-24.45,Clinton (D),Republican,5.2,-0.09999999999999964
+643,2000,Wyoming,West,27.7,67.8,R+,-42.5,Bush W. (R),Republican,3.7,-1.5
+644,2004,Wyoming,West,29.1,68.9,R+,-38.14,Bush W. (R),Republican,3.7,0.0
+645,2008,Wyoming,West,32.5,64.8,R+,-40.5,Obama (D),Republican,3.6,-0.10000000000000009
+646,2012,Wyoming,West,27.8,68.6,R+,-46.25,Obama (D),Republican,5.1,1.4999999999999996
+647,2016,Wyoming,West,21.9,68.2,R+,-53.64,Trump (R),Republican,5.1,0.0
+648,2020,Wyoming,West,26.6,69.9,R+,-49.5,Biden (D),Republican,5.5,0.40000000000000036
+649,2024,Wyoming,West,25.8,71.6,R+,-45.46,Trump (R),Republican,3.6,-1.9
