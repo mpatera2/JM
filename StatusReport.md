@@ -13,7 +13,7 @@ Since we already had experience using the FRED API from a previous lab, developi
 ### Joy's Progress (draft)
 In relation to handling the election data , the first thing we needed to do is clean the data. Our election data is derived from Daily Kos Elections presidential election results & partisanship scores. This includesdata from 1976- 2024. I first changed the formatting of the raw data , within the formatting of the raw data, it caused a lot of rigor when it came to data cleaning . for example, years was initially a row, but converted into a column to be a feature. Doing this first made data cleaning extremely easier , avoiding errors like space gaps in the the CSV file.
 
-For Data Fusion,
+For Data Fusion, as stated before it was made easy through partner communication. Most importantly FRED Data is recorded monthly , so it was important for us to fuse relevant monthly data that would correlate with the goal of our election research. As a result, we chose to use monthly data from October unemployment rates, which is the month before the election, November.
 
 ### Future Plans
 We are perfectly on schedule. With the data being fused, the next step is to begin our analysis of the data. 
