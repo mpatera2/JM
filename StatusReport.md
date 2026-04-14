@@ -1,3 +1,10 @@
+### IS 477 Project Plan
+Michael Patera & Joy Olalusi
+
+Professor Carboni
+
+4/14/2026
+
 ### Revisions to Project Plan
 Based on feedback received from the project plan, we made a couple edits to the initial plan. First, we provided a URL that links to where the FRED API pulls its data from. Next, we provided background information supporting the validity of our second source, the election data spreadsheet. We also created a release for the project plan, which we didn't do the first time. 
 
