@@ -21,8 +21,8 @@ Since we already had experience using the FRED API from a previous lab, developi
 
 Once I completed this step and Joy cleaned the elections data set, I was able to fuse the data together into a format where each observation was a State in a specific election year, with data about both the election result and unemployment available. 
 
-### Joy's Progress (draft)
-In relation to handling the election data , the first thing we needed to do is clean the data. Our election data is derived from Daily Kos Elections presidential election results & partisanship scores. This includes data from 1976- 2024. I first changed the formatting of the raw data , within the formatting of the raw data, it caused a lot of rigor when it came to data cleaning . for example, years was initially a row, but converted into a column to be a feature. Doing this first made data cleaning extremely easier , avoiding errors like space gaps in the the CSV file.
+### Joy's Progress 
+Furthermore, i proceeded with the cleaning of the election dataset.. Our election data is derived from Daily Kos Elections presidential election results & partisanship scores. This includes data from 1976- 2024. The raw data was originally structured in a way that made analysis difficult, with election years organized across rows and candidate names embedded within the data.or the purposes of our project, we narrowed our focus to elections from 1976 to 2024 to align with the availability of FRED unemployment data.
 
 For Data Fusion, as stated before it was made easy through partner communication. Since the FRED dataset reports unemployment data on a monthly basis, we needed to select a time point that best aligned with election outcomes. As a result, we chose to use unemployment data from November, as it corresponds directly with the timing of U.S. presidential elections and is most relevant to our research objective.
 
