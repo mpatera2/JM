@@ -1,4 +1,4 @@
-### IS 477 Project Plan
+### IS 477 Status Report
 Michael Patera & Joy Olalusi
 
 Professor Carboni
