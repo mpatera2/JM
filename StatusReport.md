@@ -12,7 +12,7 @@ Unrelated to feedback received, we ended up switching responsibilities for data 
 
 Additionally, we will be starting our analysis in 1976 instead of 1960, since that was the first year where full FRED data was available. 
 
-We also will drop Washington DC from the analysis.
+We also will drop Washington DC from the analysis. Our analysis aims to compare state-level election outcomes with economic indicators such as unemployment, including Washington, D.C. could distort results due to its unique structure
 
 ### Michael's Progress
 I developed the acquire_fred_data Jupyter notebook to retrieve data via the FRED API and produce the fred_unemployment_raw csv. Additionally, I documented the SHA-256 hash of the dataset to ensure reproducibility and data integrity.
@@ -39,3 +39,6 @@ Another major challenge was data cleaning and type consistency. Several columns 
 A third challenge involved ensuring accurate merging across datasets. State name consistency had to be carefully checked, since even minor formatting differences could result in missing matches and NaN values after the join. Additionally, computing the change in unemployment required correct sorting by state and year to ensure that differences were calculated between the proper election cycles.
 
 The last challenge I had was that I was trying to drop Washington D.C. by dropping anything containing the word "District." This didn't work because in the data it was under Washington D.C. I realized this by checking the length of my dataset and noticing the length was 663, not 650 as I expected (50 States by 13 elections).
+
+## Conclusion 
+In conclusion, the data cleaning process provided valuable insight into both the structure and flexibility of our dataset, as well as a deeper understanding of its key features. Although the process presented several challenges, working through them strengthened our ability to manage and prepare complex data effectively. As we move forward with our planned analysis, we are well-positioned to apply these improvements and deliver a strong, data-driven project.
