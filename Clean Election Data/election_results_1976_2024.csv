@@ -1,0 +1,729 @@
+Year,State,Region,Democratic %,Republican %,P.S.,P.S. Score,National Winner
+1976,Alabama,S,55.7,42.6,D+,11.23,Carter
+1976,Alaska,W,35.7,57.9,R+,-25.89,Carter
+1976,Arizona,W,39.8,56.4,R+,-19.33,Carter
+1976,Arkansas,S,64.9,34.9,D+,27.94,Carter
+1976,California,W,47.6,49.3,R+,-3.94,Carter
+1976,Colorado,W,42.6,54.1,R+,-13.98,Carter
+1976,Connecticut,N,46.9,52.1,R+,-7.32,Carter
+1976,Delaware,N,52.0,46.6,D+,3.39,Carter
+1976,Florida,S,51.9,46.6,D+,3.26,Carter
+1976,Georgia,S,66.7,33.0,D+,31.77,Carter
+1976,Hawaii,W,50.6,48.1,D+,0.46,Carter
+1976,Idaho,W,37.1,59.9,R+,-25.57,Carter
+1976,Illinois,M,48.1,50.1,R+,-4.11,Carter
+1976,Indiana,M,45.7,53.3,R+,-9.80,Carter
+1976,Iowa,M,48.5,49.5,R+,-3.14,Carter
+1976,Kansas,M,44.9,52.5,R+,-9.86,Carter
+1976,Kentucky,S,52.8,45.6,D+,5.20,Carter
+1976,Louisiana,S,51.7,46.0,D+,3.81,Carter
+1976,Maine,N,48.1,48.9,R+,-2.97,Carter
+1976,Maryland,N,53.0,47.0,D+,3.97,Carter
+1976,Massachusetts,N,56.1,40.4,D+,14.12,Carter
+1976,Michigan,M,46.4,51.8,R+,-7.59,Carter
+1976,Midwest,M,48.3,49.7,R+,-3.47,Carter
+1976,Minnesota,M,54.9,42.0,D+,11.18,Carter
+1976,Mississippi,S,49.6,47.7,R+,-0.17,Carter
+1976,Missouri,M,51.1,47.5,D+,1.58,Carter
+1976,Montana,W,45.4,52.8,R+,-9.67,Carter
+1976,Nebraska,M,38.5,59.2,R+,-23.34,Carter
+1976,Nevada,W,45.8,50.2,R+,-6.64,Carter
+1976,New Hampshire,N,43.5,54.7,R+,-13.59,Carter
+1976,New Jersey,N,47.9,50.1,R+,-4.31,Carter
+1976,New Mexico,W,48.3,50.7,R+,-4.59,Carter
+1976,New York,N,51.9,47.5,D+,2.34,Carter
+1976,North Carolina,S,55.3,44.2,D+,9.00,Carter
+1976,North Dakota,M,45.8,51.7,R+,-8.11,Carter
+1976,Northeast,N,51.3,47.2,D+,2.02,Carter
+1976,Ohio,M,48.9,48.7,R+,-1.83,Carter
+1976,Oklahoma,S,48.7,50.0,R+,-3.34,Carter
+1976,Oregon,W,47.6,47.8,R+,-2.28,Carter
+1976,Pennsylvania,N,50.4,47.7,D+,0.61,Carter
+1976,Region,,,,,,Carter
+1976,Rhode Island,N,55.4,44.1,D+,9.24,Carter
+1976,South,S,53.9,44.9,D+,6.98,Carter
+1976,South Carolina,S,56.2,43.1,D+,11.03,Carter
+1976,South Dakota,M,48.9,50.4,R+,-3.59,Carter
+1976,Tennessee,S,55.9,42.9,D+,11.04,Carter
+1976,Texas,S,51.1,48.0,D+,1.09,Carter
+1976,Utah,W,33.6,62.4,R+,-32.06,Carter
+1976,Vermont,N,43.1,54.3,R+,-13.59,Carter
+1976,Virginia,S,48.0,49.3,R+,-3.48,Carter
+1976,Washington,W,46.1,50.0,R+,-6.15,Carter
+1976,Washington D.C.,N,81.6,16.5,D+,64.25,Carter
+1976,West,W,45.7,51.0,R+,-7.57,Carter
+1976,West Virginia,S,58.1,41.9,D+,14.03,Carter
+1976,Wisconsin,M,49.5,47.8,R+,-0.38,Carter
+1976,Wyoming,W,39.8,59.3,R+,-21.77,Carter
+1980,Alabama,S,47.4,48.8,D+,9.26,Reagan
+1980,Alaska,W,26.4,54.3,R+,-23.99,Reagan
+1980,Arizona,W,28.2,60.6,R+,-25.81,Reagan
+1980,Arkansas,S,47.5,48.1,D+,9.97,Reagan
+1980,California,W,35.9,52.7,R+,-8.33,Reagan
+1980,Colorado,W,31.1,55.1,R+,-17.25,Reagan
+1980,Connecticut,N,38.5,48.2,R+,-0.50,Reagan
+1980,Delaware,N,44.9,47.2,D+,8.08,Reagan
+1980,Florida,S,38.5,55.5,R+,-7.49,Reagan
+1980,Georgia,S,55.8,41.0,D+,25.92,Reagan
+1980,Hawaii,W,44.8,42.9,D+,12.78,Reagan
+1980,Idaho,W,25.2,66.5,R+,-34.42,Reagan
+1980,Illinois,M,41.7,49.6,D+,1.93,Reagan
+1980,Indiana,M,37.7,56.0,R+,-8.98,Reagan
+1980,Iowa,M,38.6,51.3,R+,-3.52,Reagan
+1980,Kansas,M,33.3,57.9,R+,-16.34,Reagan
+1980,Kentucky,S,47.6,49.1,D+,9.10,Reagan
+1980,Louisiana,S,45.7,51.2,D+,4.99,Reagan
+1980,Maine,N,42.3,45.6,D+,6.79,Reagan
+1980,Maryland,N,47.1,44.2,D+,13.85,Reagan
+1980,Massachusetts,N,41.7,41.9,D+,10.43,Reagan
+1980,Michigan,M,42.5,49.0,D+,3.52,Reagan
+1980,Midwest,M,40.9,50.9,R+,-0.36,Reagan
+1980,Minnesota,M,46.5,42.6,D+,15.04,Reagan
+1980,Mississippi,S,48.1,49.4,D+,9.25,Reagan
+1980,Missouri,M,44.3,51.2,D+,3.48,Reagan
+1980,Montana,W,32.4,56.8,R+,-16.72,Reagan
+1980,Nebraska,M,26.0,65.5,R+,-32.52,Reagan
+1980,Nevada,W,26.9,62.5,R+,-29.24,Reagan
+1980,New Hampshire,N,28.4,57.7,R+,-23.52,Reagan
+1980,New Jersey,N,38.6,52.0,R+,-4.21,Reagan
+1980,New Mexico,W,36.8,55.0,R+,-9.21,Reagan
+1980,New York,N,44.0,46.7,D+,7.67,Reagan
+1980,North Carolina,S,47.2,49.3,D+,8.41,Reagan
+1980,North Dakota,M,26.3,64.2,R+,-31.35,Reagan
+1980,Northeast,N,42.5,47.1,D+,5.43,Reagan
+1980,Ohio,M,40.9,51.5,R+,-0.86,Reagan
+1980,Oklahoma,S,35.0,60.5,R+,-16.13,Reagan
+1980,Oregon,W,38.7,48.3,R+,-0.49,Reagan
+1980,Pennsylvania,N,42.5,49.6,D+,2.89,Reagan
+1980,Region,,,,,,Reagan
+1980,Rhode Island,N,47.7,37.2,D+,22.94,Reagan
+1980,South,S,44.4,51.6,D+,3.12,Reagan
+1980,South Carolina,S,48.0,49.6,D+,9.04,Reagan
+1980,South Dakota,M,31.7,60.5,R+,-20.66,Reagan
+1980,Tennessee,S,48.4,48.7,D+,10.31,Reagan
+1980,Texas,S,41.4,55.3,R+,-3.72,Reagan
+1980,Utah,W,20.6,72.8,R+,-45.32,Reagan
+1980,Vermont,N,38.4,44.4,D+,3.41,Reagan
+1980,Virginia,S,40.3,53.0,R+,-3.02,Reagan
+1980,Washington,W,37.3,49.7,R+,-3.58,Reagan
+1980,Washington D.C.,N,74.9,13.4,D+,80.24,Reagan
+1980,West,W,34.4,54.0,R+,-11.51,Reagan
+1980,West Virginia,S,49.8,45.3,D+,15.35,Reagan
+1980,Wisconsin,M,43.2,47.9,D+,5.43,Reagan
+1980,Wyoming,W,28.0,62.6,R+,-27.65,Reagan
+1984,Alabama,S,38.3,60.5,R+,-4.19,Reagan
+1984,Alaska,W,29.9,66.7,R+,-19.77,Reagan
+1984,Arizona,W,32.5,66.4,R+,-15.89,Reagan
+1984,Arkansas,S,38.3,60.5,R+,-4.12,Reagan
+1984,California,W,41.3,57.5,D+,1.89,Reagan
+1984,Colorado,W,35.1,63.4,R+,-10.39,Reagan
+1984,Connecticut,N,38.8,60.7,R+,-3.66,Reagan
+1984,Delaware,N,39.9,59.8,R+,-1.57,Reagan
+1984,Florida,S,34.7,65.3,R+,-12.33,Reagan
+1984,Georgia,S,39.8,60.2,R+,-2.06,Reagan
+1984,Hawaii,W,43.8,55.1,D+,6.93,Reagan
+1984,Idaho,W,26.4,72.4,R+,-28.21,Reagan
+1984,Illinois,M,43.3,56.2,D+,5.39,Reagan
+1984,Indiana,M,37.7,61.7,R+,-5.81,Reagan
+1984,Iowa,M,45.9,53.3,D+,10.89,Reagan
+1984,Kansas,M,32.6,66.3,R+,-15.72,Reagan
+1984,Kentucky,S,39.4,60.0,R+,-2.45,Reagan
+1984,Louisiana,S,38.2,60.8,R+,-4.50,Reagan
+1984,Maine,N,38.8,60.8,R+,-3.80,Reagan
+1984,Maryland,N,47.0,52.5,D+,12.82,Reagan
+1984,Massachusetts,N,48.4,51.2,D+,15.54,Reagan
+1984,Michigan,M,40.2,59.2,R+,-0.75,Reagan
+1984,Midwest,M,41.3,58.0,D+,1.52,Reagan
+1984,Minnesota,M,49.7,49.5,D+,18.52,Reagan
+1984,Mississippi,S,37.5,61.8,R+,-6.22,Reagan
+1984,Missouri,M,40.0,60.0,R+,-1.71,Reagan
+1984,Montana,W,38.2,60.5,R+,-4.26,Reagan
+1984,Nebraska,M,28.8,70.6,R+,-23.67,Reagan
+1984,Nevada,W,32.0,65.8,R+,-16.29,Reagan
+1984,New Hampshire,N,31.0,68.7,R+,-19.51,Reagan
+1984,New Jersey,N,39.2,60.1,R+,-2.70,Reagan
+1984,New Mexico,W,39.2,59.7,R+,-2.36,Reagan
+1984,New York,N,45.8,53.8,D+,10.30,Reagan
+1984,North Carolina,S,37.9,61.9,R+,-5.72,Reagan
+1984,North Dakota,M,33.8,64.8,R+,-13.13,Reagan
+1984,Northeast,N,44.7,54.8,D+,8.21,Reagan
+1984,Ohio,M,40.1,58.9,R+,-0.60,Reagan
+1984,Oklahoma,S,30.7,68.6,R+,-19.88,Reagan
+1984,Oregon,W,43.7,55.9,D+,6.13,Reagan
+1984,Pennsylvania,N,46.0,53.3,D+,10.94,Reagan
+1984,Region,,,,,,Reagan
+1984,Rhode Island,N,48.0,51.7,D+,14.68,Reagan
+1984,South,S,37.2,62.3,R+,-6.92,Reagan
+1984,South Carolina,S,35.6,63.6,R+,-9.90,Reagan
+1984,South Dakota,M,36.5,63.0,R+,-8.26,Reagan
+1984,Tennessee,S,41.6,57.8,D+,1.98,Reagan
+1984,Texas,S,36.1,63.6,R+,-9.23,Reagan
+1984,Utah,W,24.7,74.5,R+,-31.90,Reagan
+1984,Vermont,N,40.8,57.9,D+,1.01,Reagan
+1984,Virginia,S,37.1,62.3,R+,-7.01,Reagan
+1984,Washington,W,42.9,55.8,D+,5.20,Reagan
+1984,Washington D.C.,N,85.4,13.7,D+,90.63,Reagan
+1984,West,W,39.2,59.6,R+,-2.23,Reagan
+1984,West Virginia,S,44.6,55.1,D+,7.79,Reagan
+1984,Wisconsin,M,45.0,54.2,D+,9.09,Reagan
+1984,Wyoming,W,28.2,70.5,R+,-24.46,Reagan
+1988,Alabama,S,39.9,59.2,R+,-11.69,Bush
+1988,Alaska,W,36.3,59.6,R+,-16.52,Bush
+1988,Arizona,W,38.7,60.0,R+,-13.68,Bush
+1988,Arkansas,S,42.2,56.4,R+,-6.58,Bush
+1988,California,W,47.6,51.1,D+,4.19,Bush
+1988,Colorado,W,45.3,53.1,R+,-0.10,Bush
+1988,Connecticut,N,46.9,52.0,D+,2.64,Bush
+1988,Delaware,N,43.5,55.9,R+,-4.68,Bush
+1988,Florida,S,38.5,60.9,R+,-14.70,Bush
+1988,Georgia,S,39.5,59.8,R+,-12.60,Bush
+1988,Hawaii,W,54.3,44.8,D+,17.42,Bush
+1988,Idaho,W,36.0,62.1,R+,-18.77,Bush
+1988,Illinois,M,48.6,50.7,D+,5.70,Bush
+1988,Indiana,M,39.7,59.8,R+,-12.45,Bush
+1988,Iowa,M,54.7,44.5,D+,18.10,Bush
+1988,Kansas,M,42.6,55.8,R+,-5.65,Bush
+1988,Kentucky,S,43.9,55.5,R+,-3.90,Bush
+1988,Louisiana,S,44.1,54.3,R+,-2.58,Bush
+1988,Maine,N,43.9,55.3,R+,-3.74,Bush
+1988,Maryland,N,48.2,51.1,D+,4.87,Bush
+1988,Massachusetts,N,53.2,45.4,D+,15.77,Bush
+1988,Michigan,M,45.7,53.6,R+,-0.15,Bush
+1988,Midwest,M,46.9,52.4,D+,2.25,Bush
+1988,Minnesota,M,52.9,45.9,D+,14.90,Bush
+1988,Mississippi,S,39.1,59.9,R+,-13.24,Bush
+1988,Missouri,M,47.9,51.8,D+,3.81,Bush
+1988,Montana,W,46.2,52.1,D+,1.83,Bush
+1988,Nebraska,M,39.2,60.2,R+,-13.29,Bush
+1988,Nevada,W,37.9,58.9,R+,-13.83,Bush
+1988,New Hampshire,N,36.3,62.5,R+,-18.66,Bush
+1988,New Jersey,N,42.6,56.2,R+,-6.00,Bush
+1988,New Mexico,W,46.9,51.9,D+,2.78,Bush
+1988,New York,N,51.6,47.5,D+,11.94,Bush
+1988,North Carolina,S,41.7,58.0,R+,-8.51,Bush
+1988,North Dakota,M,43.0,56.0,R+,-5.39,Bush
+1988,Northeast,N,49.0,50.0,D+,6.79,Bush
+1988,Ohio,M,44.1,55.0,R+,-3.15,Bush
+1988,Oklahoma,S,41.3,57.9,R+,-8.98,Bush
+1988,Oregon,W,51.3,46.6,D+,12.57,Bush
+1988,Pennsylvania,N,48.4,50.7,D+,5.46,Bush
+1988,Region,,,,,,Bush
+1988,Rhode Island,N,55.6,43.9,D+,19.56,Bush
+1988,South,S,41.3,57.9,R+,-8.90,Bush
+1988,South Carolina,S,37.6,61.5,R+,-16.34,Bush
+1988,South Dakota,M,46.5,52.8,D+,1.42,Bush
+1988,Tennessee,S,41.5,57.9,R+,-8.63,Bush
+1988,Texas,S,43.3,56.0,R+,-4.89,Bush
+1988,Utah,W,32.0,66.2,R+,-26.97,Bush
+1988,Vermont,N,47.6,51.1,D+,4.24,Bush
+1988,Virginia,S,39.2,59.7,R+,-12.91,Bush
+1988,Washington,W,50.0,48.5,D+,9.42,Bush
+1988,Washington D.C.,N,82.6,14.3,D+,78.29,Bush
+1988,West,W,46.2,52.3,D+,1.65,Bush
+1988,West Virginia,S,52.2,47.5,D+,12.56,Bush
+1988,Wisconsin,M,51.4,47.8,D+,11.45,Bush
+1988,Wyoming,W,38.0,60.5,R+,-15.05,Bush
+1992,Alabama,S,40.9,47.6,R+,-14.55,Clinton
+1992,Alaska,W,30.3,39.5,R+,-20.06,Clinton
+1992,Arizona,W,36.5,38.5,R+,-9.51,Clinton
+1992,Arkansas,S,53.2,35.5,D+,13.07,Clinton
+1992,California,W,46.0,32.6,D+,10.12,Clinton
+1992,Colorado,W,40.1,35.9,R+,-1.31,Clinton
+1992,Connecticut,N,42.2,35.8,D+,1.34,Clinton
+1992,Delaware,N,43.5,35.3,D+,3.49,Clinton
+1992,Florida,S,39.0,40.9,R+,-9.28,Clinton
+1992,Georgia,S,43.5,42.9,R+,-6.23,Clinton
+1992,Hawaii,W,48.1,36.7,D+,6.53,Clinton
+1992,Idaho,W,28.4,42.0,R+,-26.23,Clinton
+1992,Illinois,M,48.6,34.3,D+,10.27,Clinton
+1992,Indiana,M,36.8,42.9,R+,-14.58,Clinton
+1992,Iowa,M,43.3,37.3,D+,0.56,Clinton
+1992,Kansas,M,33.7,38.9,R+,-13.99,Clinton
+1992,Kentucky,S,44.6,41.3,R+,-3.17,Clinton
+1992,Louisiana,S,45.6,41.0,R+,-1.58,Clinton
+1992,Maine,N,38.8,30.4,D+,5.20,Clinton
+1992,Maryland,N,49.8,35.6,D+,9.69,Clinton
+1992,Massachusetts,N,47.5,29.0,D+,17.27,Clinton
+1992,Michigan,M,43.8,36.4,D+,2.32,Clinton
+1992,Midwest,M,42.2,36.9,R+,-0.26,Clinton
+1992,Minnesota,M,43.5,31.9,D+,8.53,Clinton
+1992,Mississippi,S,40.8,49.7,R+,-16.77,Clinton
+1992,Missouri,M,44.1,33.9,D+,6.10,Clinton
+1992,Montana,W,37.6,35.1,R+,-3.46,Clinton
+1992,Nebraska,M,29.4,46.6,R+,-29.52,Clinton
+1992,Nevada,W,37.4,34.7,R+,-3.26,Clinton
+1992,New Hampshire,N,38.9,37.6,R+,-5.32,Clinton
+1992,New Jersey,N,43.0,40.6,R+,-4.07,Clinton
+1992,New Mexico,W,45.9,37.3,D+,3.37,Clinton
+1992,New York,N,49.7,33.9,D+,12.05,Clinton
+1992,North Carolina,S,42.7,43.4,R+,-7.83,Clinton
+1992,North Dakota,M,32.2,44.2,R+,-22.66,Clinton
+1992,Northeast,N,46.7,34.6,D+,7.95,Clinton
+1992,Ohio,M,40.2,38.3,R+,-4.57,Clinton
+1992,Oklahoma,S,34.0,42.6,R+,-18.15,Clinton
+1992,Oregon,W,42.5,32.5,D+,6.36,Clinton
+1992,Pennsylvania,N,45.1,36.1,D+,4.19,Clinton
+1992,Region,,,,,,Clinton
+1992,Rhode Island,N,47.0,29.0,D+,16.78,Clinton
+1992,South,S,41.2,42.4,R+,-8.34,Clinton
+1992,South Carolina,S,39.9,48.0,R+,-16.18,Clinton
+1992,South Dakota,M,37.1,40.7,R+,-11.43,Clinton
+1992,Tennessee,S,47.1,42.4,R+,-1.71,Clinton
+1992,Texas,S,37.1,40.6,R+,-11.39,Clinton
+1992,Utah,W,24.7,43.4,R+,-34.42,Clinton
+1992,Vermont,N,46.1,30.4,D+,13.60,Clinton
+1992,Virginia,S,40.6,45.0,R+,-12.02,Clinton
+1992,Washington,W,43.4,32.0,D+,8.27,Clinton
+1992,Washington D.C.,N,84.6,9.1,D+,73.68,Clinton
+1992,West,W,42.6,34.2,D+,4.06,Clinton
+1992,West Virginia,S,48.4,35.4,D+,8.63,Clinton
+1992,Wisconsin,M,41.1,36.8,R+,-1.32,Clinton
+1992,Wyoming,W,34.0,39.5,R+,-14.49,Clinton
+1996,Alabama,S,43.2,50.1,R+,-16.94,Clinton
+1996,Alaska,W,33.3,50.8,R+,-30.33,Clinton
+1996,Arizona,W,46.5,44.3,R+,-7.02,Clinton
+1996,Arkansas,S,53.7,36.8,D+,9.24,Clinton
+1996,California,W,51.1,38.2,D+,4.96,Clinton
+1996,Colorado,W,44.4,45.8,R+,-10.99,Clinton
+1996,Connecticut,N,52.8,34.7,D+,11.26,Clinton
+1996,Delaware,N,51.8,36.5,D+,7.78,Clinton
+1996,Florida,S,48.0,42.3,R+,-3.16,Clinton
+1996,Georgia,S,45.8,47.0,R+,-10.74,Clinton
+1996,Hawaii,W,56.9,31.6,D+,19.08,Clinton
+1996,Idaho,W,33.6,52.2,R+,-31.07,Clinton
+1996,Illinois,M,54.3,36.8,D+,9.74,Clinton
+1996,Indiana,M,41.5,47.1,R+,-15.77,Clinton
+1996,Iowa,M,50.3,39.9,D+,2.00,Clinton
+1996,Kansas,M,36.1,54.3,R+,-29.62,Clinton
+1996,Kentucky,S,45.8,44.9,R+,-8.41,Clinton
+1996,Louisiana,S,52.0,39.9,D+,3.65,Clinton
+1996,Maine,N,51.6,30.8,D+,15.85,Clinton
+1996,Maryland,N,54.3,38.3,D+,7.81,Clinton
+1996,Massachusetts,N,61.5,28.1,D+,27.81,Clinton
+1996,Michigan,M,51.7,38.5,D+,5.18,Clinton
+1996,Midwest,M,48.4,40.7,R+,-0.81,Clinton
+1996,Minnesota,M,51.1,35.0,D+,9.29,Clinton
+1996,Mississippi,S,44.1,49.2,R+,-14.96,Clinton
+1996,Missouri,M,47.5,41.2,R+,-2.38,Clinton
+1996,Montana,W,41.2,44.1,R+,-12.85,Clinton
+1996,Nebraska,M,35.0,53.7,R+,-30.58,Clinton
+1996,Nevada,W,43.9,42.9,R+,-8.30,Clinton
+1996,New Hampshire,N,49.3,39.4,D+,1.75,Clinton
+1996,New Jersey,N,53.7,35.9,D+,10.46,Clinton
+1996,New Mexico,W,49.2,41.9,R+,-1.42,Clinton
+1996,New York,N,59.5,30.6,D+,22.56,Clinton
+1996,North Carolina,S,44.0,48.7,R+,-14.53,Clinton
+1996,North Dakota,M,40.1,46.9,R+,-17.29,Clinton
+1996,Northeast,N,55.5,33.9,D+,14.70,Clinton
+1996,Ohio,M,47.4,41.0,R+,-2.28,Clinton
+1996,Oklahoma,S,40.4,48.3,R+,-18.27,Clinton
+1996,Oregon,W,47.2,39.1,R+,-0.08,Clinton
+1996,Pennsylvania,N,49.2,40.0,D+,0.85,Clinton
+1996,Region,,,,,,Clinton
+1996,Rhode Island,N,59.7,26.8,D+,28.54,Clinton
+1996,South,S,46.0,45.9,R+,-9.34,Clinton
+1996,South Carolina,S,43.9,49.9,R+,-15.91,Clinton
+1996,South Dakota,M,43.0,46.5,R+,-13.34,Clinton
+1996,Tennessee,S,48.0,45.6,R+,-6.90,Clinton
+1996,Texas,S,43.8,48.8,R+,-14.79,Clinton
+1996,Utah,W,33.3,54.4,R+,-33.51,Clinton
+1996,Vermont,N,53.4,31.1,D+,16.90,Clinton
+1996,Virginia,S,45.1,47.1,R+,-11.59,Clinton
+1996,Washington,W,49.8,37.3,D+,4.92,Clinton
+1996,Washington D.C.,N,85.2,9.3,D+,70.78,Clinton
+1996,West,W,48.2,40.5,R+,-0.89,Clinton
+1996,West Virginia,S,51.5,36.8,D+,7.24,Clinton
+1996,Wisconsin,M,48.8,38.5,D+,2.37,Clinton
+1996,Wyoming,W,36.8,49.8,R+,-24.45,Clinton
+2000,Alabama,S,41.6,56.5,R+,-15.71,Bush
+2000,Alaska,W,27.7,58.6,R+,-36.41,Bush
+2000,Arizona,W,44.7,51.0,R+,-7.10,Bush
+2000,Arkansas,S,45.9,51.3,R+,-6.14,Bush
+2000,California,W,53.4,41.7,D+,11.87,Bush
+2000,Colorado,W,42.4,50.8,R+,-9.51,Bush
+2000,Connecticut,N,55.9,38.4,D+,17.97,Bush
+2000,Delaware,N,55.0,41.9,D+,12.94,Bush
+2000,Florida,S,48.8,48.8,R+,-0.55,Bush
+2000,Georgia,S,43.0,54.7,R+,-12.51,Bush
+2000,Hawaii,W,55.8,37.5,D+,19.12,Bush
+2000,Idaho,W,27.6,67.2,R+,-42.24,Bush
+2000,Illinois,M,54.6,42.6,D+,11.82,Bush
+2000,Indiana,M,41.0,56.6,R+,-16.55,Bush
+2000,Iowa,M,48.5,48.2,R+,-0.21,Bush
+2000,Kansas,M,37.2,58.0,R+,-22.37,Bush
+2000,Kentucky,S,41.4,56.5,R+,-16.00,Bush
+2000,Louisiana,S,44.9,52.6,R+,-8.42,Bush
+2000,Maine,N,49.1,44.0,D+,4.96,Bush
+2000,Maryland,N,56.6,40.2,D+,16.40,Bush
+2000,Massachusetts,N,59.8,32.5,D+,29.04,Bush
+2000,Michigan,M,51.3,46.1,D+,4.73,Bush
+2000,Midwest,M,47.7,48.8,R+,-1.73,Bush
+2000,Minnesota,M,47.9,45.5,D+,2.03,Bush
+2000,Mississippi,S,40.7,57.6,R+,-17.74,Bush
+2000,Missouri,M,47.1,50.4,R+,-3.96,Bush
+2000,Montana,W,33.4,58.4,R+,-27.85,Bush
+2000,Nebraska,M,33.3,62.2,R+,-30.90,Bush
+2000,Nevada,W,46.0,49.5,R+,-4.25,Bush
+2000,New Hampshire,N,46.8,48.1,R+,-1.88,Bush
+2000,New Jersey,N,56.1,40.3,D+,15.88,Bush
+2000,New Mexico,W,47.9,47.8,R+,-0.48,Bush
+2000,New York,N,60.2,35.2,D+,25.66,Bush
+2000,North Carolina,S,43.2,56.0,R+,-13.47,Bush
+2000,North Dakota,M,33.1,60.7,R+,-29.99,Bush
+2000,Northeast,N,56.4,39.0,D+,17.75,Bush
+2000,Ohio,M,46.5,50.0,R+,-4.18,Bush
+2000,Oklahoma,S,38.4,60.3,R+,-22.70,Bush
+2000,Oregon,W,47.0,46.5,R+,-0.07,Bush
+2000,Pennsylvania,N,50.6,46.4,D+,3.76,Bush
+2000,Region,,,,,,Bush
+2000,Rhode Island,N,61.0,31.9,D+,30.76,Bush
+2000,South,S,43.2,54.5,R+,-12.09,Bush
+2000,South Carolina,S,40.9,56.8,R+,-16.83,Bush
+2000,South Dakota,M,37.6,60.3,R+,-23.77,Bush
+2000,Tennessee,S,47.3,51.1,R+,-4.47,Bush
+2000,Texas,S,38.0,59.3,R+,-22.45,Bush
+2000,Utah,W,26.3,66.8,R+,-43.99,Bush
+2000,Vermont,N,50.6,40.7,D+,10.34,Bush
+2000,Virginia,S,44.4,52.5,R+,-8.83,Bush
+2000,Washington,W,50.1,44.6,D+,5.35,Bush
+2000,Washington D.C.,N,85.2,9.0,D+,80.44,Bush
+2000,West,W,48.3,46.3,D+,1.64,Bush
+2000,West Virginia,S,45.6,51.9,R+,-7.02,Bush
+2000,Wisconsin,M,47.8,47.6,R+,-0.31,Bush
+2000,Wyoming,W,27.7,67.8,R+,-42.50,Bush
+2004,Alabama,S,36.8,62.5,R+,-23.31,Bush
+2004,Alaska,W,35.5,61.1,R+,-23.96,Bush
+2004,Arizona,W,44.3,54.8,R+,-8.06,Bush
+2004,Arkansas,S,44.5,54.3,R+,-7.38,Bush
+2004,California,W,54.3,44.4,D+,12.57,Bush
+2004,Colorado,W,47.0,51.7,R+,-2.24,Bush
+2004,Connecticut,N,54.3,43.9,D+,13.04,Bush
+2004,Delaware,N,53.3,45.7,D+,10.15,Bush
+2004,Florida,S,47.1,52.1,R+,-2.56,Bush
+2004,Georgia,S,41.3,57.9,R+,-14.22,Bush
+2004,Hawaii,W,54.0,45.3,D+,11.30,Bush
+2004,Idaho,W,30.3,68.4,R+,-36.16,Bush
+2004,Illinois,M,54.8,44.5,D+,12.91,Bush
+2004,Indiana,M,39.3,59.9,R+,-18.36,Bush
+2004,Iowa,M,49.2,49.9,D+,1.81,Bush
+2004,Kansas,M,36.6,62.0,R+,-23.25,Bush
+2004,Kentucky,S,39.7,59.5,R+,-17.53,Bush
+2004,Louisiana,S,42.2,56.7,R+,-12.17,Bush
+2004,Maine,N,53.6,44.6,D+,11.65,Bush
+2004,Maryland,N,55.9,42.9,D+,15.62,Bush
+2004,Massachusetts,N,61.9,36.8,D+,27.97,Bush
+2004,Michigan,M,51.2,47.8,D+,5.94,Bush
+2004,Midwest,M,48.4,50.8,D+,0.06,Bush
+2004,Minnesota,M,51.1,47.6,D+,6.01,Bush
+2004,Mississippi,S,39.8,59.4,R+,-17.36,Bush
+2004,Missouri,M,46.1,53.3,R+,-4.75,Bush
+2004,Montana,W,38.6,59.1,R+,-18.51,Bush
+2004,Nebraska,M,32.7,65.9,R+,-31.21,Bush
+2004,Nevada,W,47.9,50.5,R+,-0.15,Bush
+2004,New Hampshire,N,50.2,48.9,D+,3.87,Bush
+2004,New Jersey,N,52.9,46.2,D+,9.23,Bush
+2004,New Mexico,W,49.0,49.8,D+,1.69,Bush
+2004,New York,N,58.4,40.1,D+,21.06,Bush
+2004,North Carolina,S,43.6,56.0,R+,-10.00,Bush
+2004,North Dakota,M,35.5,62.9,R+,-25.33,Bush
+2004,Northeast,N,55.8,43.0,D+,15.45,Bush
+2004,Ohio,M,48.7,50.8,D+,0.37,Bush
+2004,Oklahoma,S,34.4,65.6,R+,-28.65,Bush
+2004,Oregon,W,51.3,47.2,D+,6.71,Bush
+2004,Pennsylvania,N,50.9,48.4,D+,5.00,Bush
+2004,Region,,,,,,Bush
+2004,Rhode Island,N,59.4,38.7,D+,23.64,Bush
+2004,South,S,42.0,57.2,R+,-12.83,Bush
+2004,South Carolina,S,40.9,58.0,R+,-14.78,Bush
+2004,South Dakota,M,38.4,59.9,R+,-19.34,Bush
+2004,Tennessee,S,42.5,56.8,R+,-11.91,Bush
+2004,Texas,S,38.2,61.1,R+,-20.53,Bush
+2004,Utah,W,26.0,71.5,R+,-44.20,Bush
+2004,Vermont,N,58.9,38.8,D+,23.09,Bush
+2004,Virginia,S,45.5,53.7,R+,-5.78,Bush
+2004,Washington,W,52.8,45.6,D+,9.78,Bush
+2004,Washington D.C.,N,89.2,9.3,D+,83.53,Bush
+2004,West,W,49.9,48.7,D+,3.66,Bush
+2004,West Virginia,S,43.2,56.1,R+,-10.47,Bush
+2004,Wisconsin,M,49.7,49.3,D+,2.87,Bush
+2004,Wyoming,W,29.1,68.9,R+,-38.14,Bush
+2008,Alabama,S,38.7,60.3,R+,-29.16,Obama
+2008,Alaska,W,37.9,59.4,R+,-29.51,Obama
+2008,Arizona,W,44.9,53.4,R+,-16.00,Obama
+2008,Arkansas,S,38.9,58.7,R+,-27.72,Obama
+2008,California,W,60.9,36.9,D+,17.18,Obama
+2008,Colorado,W,53.7,44.7,D+,1.72,Obama
+2008,Connecticut,N,60.6,38.2,D+,15.26,Obama
+2008,Delaware,N,61.9,36.9,D+,17.90,Obama
+2008,Florida,S,50.9,48.1,R+,-4.54,Obama
+2008,Georgia,S,46.9,52.1,R+,-12.63,Obama
+2008,Hawaii,W,71.8,26.6,D+,38.61,Obama
+2008,Idaho,W,35.9,61.2,R+,-33.43,Obama
+2008,Illinois,M,61.8,36.7,D+,18.09,Obama
+2008,Indiana,M,49.8,48.8,R+,-6.33,Obama
+2008,Iowa,M,53.9,44.4,D+,2.32,Obama
+2008,Kansas,M,41.6,56.5,R+,-22.60,Obama
+2008,Kentucky,S,41.1,57.4,R+,-23.84,Obama
+2008,Louisiana,S,39.9,58.6,R+,-26.29,Obama
+2008,Maine,N,57.7,40.4,D+,10.28,Obama
+2008,Maryland,N,61.9,36.5,D+,18.48,Obama
+2008,Massachusetts,N,61.8,36.0,D+,19.02,Obama
+2008,Michigan,M,57.3,40.9,D+,9.37,Obama
+2008,Midwest,M,53.8,44.5,D+,2.10,Obama
+2008,Minnesota,M,54.1,43.8,D+,3.08,Obama
+2008,Mississippi,S,43.0,56.2,R+,-20.66,Obama
+2008,Missouri,M,49.2,49.4,R+,-7.51,Obama
+2008,Montana,W,47.1,49.5,R+,-9.84,Obama
+2008,Nebraska,M,41.6,56.5,R+,-22.59,Obama
+2008,Nevada,W,55.1,42.7,D+,5.40,Obama
+2008,New Hampshire,N,54.1,44.5,D+,2.36,Obama
+2008,New Jersey,N,57.1,41.6,D+,8.35,Obama
+2008,New Mexico,W,56.9,41.8,D+,7.95,Obama
+2008,New York,N,62.9,36.0,D+,19.78,Obama
+2008,North Carolina,S,49.7,49.4,R+,-7.04,Obama
+2008,North Dakota,M,44.5,53.2,R+,-16.23,Obama
+2008,Northeast,N,59.9,38.7,D+,14.09,Obama
+2008,Ohio,M,51.4,46.8,R+,-2.71,Obama
+2008,Oklahoma,S,34.4,65.6,R+,-38.67,Obama
+2008,Oregon,W,56.7,40.4,D+,9.45,Obama
+2008,Pennsylvania,N,54.5,44.2,D+,3.08,Obama
+2008,Region,,,,,,Obama
+2008,Rhode Island,N,62.9,35.1,D+,21.02,Obama
+2008,South,S,45.7,53.2,R+,-15.03,Obama
+2008,South Carolina,S,44.9,53.9,R+,-16.47,Obama
+2008,South Dakota,M,44.7,53.2,R+,-15.97,Obama
+2008,Tennessee,S,41.8,56.8,R+,-22.64,Obama
+2008,Texas,S,43.6,55.4,R+,-19.25,Obama
+2008,Utah,W,34.2,62.2,R+,-36.43,Obama
+2008,Vermont,N,67.5,30.4,D+,30.42,Obama
+2008,Virginia,S,52.6,46.3,R+,-1.01,Obama
+2008,Washington,W,57.3,40.3,D+,10.13,Obama
+2008,Washington D.C.,N,92.5,6.5,D+,79.42,Obama
+2008,West,W,55.9,41.9,D+,7.01,Obama
+2008,West Virginia,S,42.5,55.6,R+,-20.72,Obama
+2008,Wisconsin,M,56.2,42.3,D+,6.73,Obama
+2008,Wyoming,W,32.5,64.8,R+,-40.50,Obama
+2012,Alabama,S,38.4,60.5,R+,-26.36,Obama
+2012,Alaska,W,40.8,54.8,R+,-18.56,Obama
+2012,Arizona,W,44.4,53.5,R+,-13.16,Obama
+2012,Arkansas,S,36.9,60.6,R+,-28.24,Obama
+2012,California,W,60.2,37.1,D+,19.82,Obama
+2012,Colorado,W,51.4,46.1,D+,1.57,Obama
+2012,Connecticut,N,58.1,40.7,D+,13.62,Obama
+2012,Delaware,N,58.6,40.0,D+,14.96,Obama
+2012,Florida,S,49.9,49.0,R+,-3.04,Obama
+2012,Georgia,S,45.4,53.2,R+,-11.84,Obama
+2012,Hawaii,W,70.5,27.8,D+,39.48,Obama
+2012,Idaho,W,32.4,64.1,R+,-36.77,Obama
+2012,Illinois,M,57.5,40.7,D+,13.23,Obama
+2012,Indiana,M,43.8,54.0,R+,-14.35,Obama
+2012,Iowa,M,52.0,46.2,D+,1.99,Obama
+2012,Kansas,M,38.0,59.7,R+,-26.05,Obama
+2012,Kentucky,S,37.8,60.5,R+,-27.01,Obama
+2012,Louisiana,S,40.6,57.8,R+,-21.42,Obama
+2012,Maine,N,56.3,41.0,D+,11.79,Obama
+2012,Maryland,N,62.0,35.9,D+,22.71,Obama
+2012,Massachusetts,N,60.7,37.5,D+,19.65,Obama
+2012,Michigan,M,54.0,44.6,D+,5.67,Obama
+2012,Midwest,M,50.6,47.5,R+,-0.82,Obama
+2012,Minnesota,M,52.7,45.0,D+,3.95,Obama
+2012,Mississippi,S,43.8,55.3,R+,-15.53,Obama
+2012,Missouri,M,44.3,53.6,R+,-13.49,Obama
+2012,Montana,W,41.7,55.3,R+,-18.00,Obama
+2012,Nebraska,M,38.0,59.8,R+,-26.19,Obama
+2012,Nevada,W,52.4,45.7,D+,2.89,Obama
+2012,New Hampshire,N,52.0,46.4,D+,1.74,Obama
+2012,New Jersey,N,58.2,40.5,D+,14.04,Obama
+2012,New Mexico,W,53.0,42.8,D+,6.66,Obama
+2012,New York,N,63.3,35.2,D+,24.67,Obama
+2012,North Carolina,S,48.4,50.4,R+,-6.00,Obama
+2012,North Dakota,M,38.7,58.3,R+,-24.16,Obama
+2012,Northeast,N,59.2,39.2,D+,16.41,Obama
+2012,Ohio,M,50.6,47.6,R+,-0.90,Obama
+2012,Oklahoma,S,33.2,66.8,R+,-37.47,Obama
+2012,Oregon,W,54.2,42.1,D+,8.61,Obama
+2012,Pennsylvania,N,52.0,46.6,D+,1.53,Obama
+2012,Region,,,,,,Obama
+2012,Rhode Island,N,62.7,35.2,D+,24.10,Obama
+2012,South,S,44.3,54.4,R+,-14.16,Obama
+2012,South Carolina,S,44.1,54.6,R+,-14.55,Obama
+2012,South Dakota,M,39.9,57.9,R+,-22.37,Obama
+2012,Tennessee,S,39.0,59.4,R+,-24.63,Obama
+2012,Texas,S,41.4,57.1,R+,-19.94,Obama
+2012,Utah,W,24.7,72.5,R+,-53.18,Obama
+2012,Vermont,N,66.6,31.0,D+,32.57,Obama
+2012,Virginia,S,51.2,47.3,D+,0.01,Obama
+2012,Washington,W,55.8,41.0,D+,11.33,Obama
+2012,Washington D.C.,N,90.9,7.3,D+,81.25,Obama
+2012,West,W,54.1,43.1,D+,7.36,Obama
+2012,West Virginia,S,35.5,62.1,R+,-31.28,Obama
+2012,Wisconsin,M,52.8,45.9,D+,3.10,Obama
+2012,Wyoming,W,27.8,68.6,R+,-46.25,Obama
+2016,Alabama,S,34.4,62.1,R+,-30.97,Trump
+2016,Alaska,W,36.6,51.3,R+,-19.00,Trump
+2016,Arizona,W,44.6,48.1,R+,-6.01,Trump
+2016,Arkansas,S,33.7,60.6,R+,-30.80,Trump
+2016,California,W,61.5,31.5,D+,30.03,Trump
+2016,Colorado,W,48.2,43.3,D+,3.14,Trump
+2016,Connecticut,N,54.6,40.9,D+,12.06,Trump
+2016,Delaware,N,53.1,41.7,D+,9.77,Trump
+2016,Florida,S,47.4,48.6,R+,-3.46,Trump
+2016,Georgia,S,45.3,50.4,R+,-7.55,Trump
+2016,Hawaii,W,62.2,30.0,D+,32.66,Trump
+2016,Idaho,W,27.5,59.2,R+,-38.85,Trump
+2016,Illinois,M,55.2,38.4,D+,15.81,Trump
+2016,Indiana,M,37.4,56.4,R+,-22.46,Trump
+2016,Iowa,M,41.7,51.1,R+,-12.35,Trump
+2016,Kansas,M,35.7,56.0,R+,-24.45,Trump
+2016,Kentucky,S,32.7,62.5,R+,-33.57,Trump
+2016,Louisiana,S,38.4,58.1,R+,-22.57,Trump
+2016,Maine,N,47.8,44.9,D+,0.97,Trump
+2016,Maryland,N,60.3,33.9,D+,25.81,Trump
+2016,Massachusetts,N,60.0,32.8,D+,27.08,Trump
+2016,Michigan,M,47.0,47.2,R+,-2.46,Trump
+2016,Midwest,M,44.6,48.9,R+,-6.85,Trump
+2016,Minnesota,M,46.4,44.9,R+,-0.57,Trump
+2016,Mississippi,S,40.1,57.9,R+,-20.41,Trump
+2016,Missouri,M,37.9,56.4,R+,-21.86,Trump
+2016,Montana,W,35.4,55.6,R+,-24.45,Trump
+2016,Nebraska,M,33.7,58.7,R+,-29.32,Trump
+2016,Nevada,W,47.9,45.5,D+,0.36,Trump
+2016,New Hampshire,N,46.8,46.5,R+,-1.83,Trump
+2016,New Jersey,N,55.0,41.0,D+,12.34,Trump
+2016,New Mexico,W,48.3,40.0,D+,7.08,Trump
+2016,New York,N,59.0,36.5,D+,21.32,Trump
+2016,North Carolina,S,46.2,49.8,R+,-6.03,Trump
+2016,North Dakota,M,27.2,63.0,R+,-41.84,Trump
+2016,Northeast,N,55.5,39.4,D+,14.75,Trump
+2016,Ohio,M,43.2,51.3,R+,-10.76,Trump
+2016,Oklahoma,S,28.9,65.3,R+,-40.84,Trump
+2016,Oregon,W,50.1,39.1,D+,10.09,Trump
+2016,Pennsylvania,N,47.5,48.2,R+,-2.98,Trump
+2016,Region,,,,,,Trump
+2016,Rhode Island,N,54.4,38.9,D+,14.39,Trump
+2016,South,S,42.5,53.1,R+,-13.36,Trump
+2016,South Carolina,S,40.7,54.9,R+,-17.15,Trump
+2016,South Dakota,M,31.7,61.5,R+,-34.17,Trump
+2016,Tennessee,S,34.7,60.7,R+,-29.48,Trump
+2016,Texas,S,43.1,52.1,R+,-11.65,Trump
+2016,Utah,W,27.2,45.0,R+,-26.99,Trump
+2016,Vermont,N,56.7,30.3,D+,28.15,Trump
+2016,Virginia,S,49.8,44.4,D+,3.43,Trump
+2016,Washington,W,52.5,36.8,D+,15.35,Trump
+2016,Washington D.C.,N,90.9,4.1,D+,89.16,Trump
+2016,West,W,53.1,37.9,D+,14.49,Trump
+2016,West Virginia,S,26.2,67.8,R+,-46.55,Trump
+2016,Wisconsin,M,46.5,47.2,R+,-3.04,Trump
+2016,Wyoming,W,21.9,68.2,R+,-53.64,Trump
+2020,Alabama,S,36.6,62.0,R+,-30.36,Biden
+2020,Alaska,W,42.8,52.8,R+,-15.06,Biden
+2020,Arizona,W,49.2,48.9,R+,-4.23,Biden
+2020,Arkansas,S,34.8,62.4,R+,-32.96,Biden
+2020,California,W,63.4,34.3,D+,25.28,Biden
+2020,Colorado,W,55.4,41.9,D+,9.34,Biden
+2020,Connecticut,N,59.2,39.2,D+,15.80,Biden
+2020,Delaware,N,58.7,39.8,D+,14.71,Biden
+2020,Florida,S,47.8,51.1,R+,-7.93,Biden
+2020,Georgia,S,49.5,49.3,R+,-4.30,Biden
+2020,Hawaii,W,63.7,34.3,D+,25.53,Biden
+2020,Idaho,W,33.1,63.8,R+,-36.29,Biden
+2020,Illinois,M,57.5,40.5,D+,12.78,Biden
+2020,Indiana,M,41.0,57.0,R+,-20.93,Biden
+2020,Iowa,M,44.9,53.1,R+,-12.91,Biden
+2020,Kansas,M,41.6,56.2,R+,-19.53,Biden
+2020,Kentucky,S,36.2,62.1,R+,-30.94,Biden
+2020,Louisiana,S,39.9,58.5,R+,-23.47,Biden
+2020,Maine,N,53.1,44.0,D+,4.80,Biden
+2020,Maryland,N,65.4,32.2,D+,29.52,Biden
+2020,Massachusetts,N,65.6,32.1,D+,29.69,Biden
+2020,Michigan,M,50.6,47.8,R+,-1.71,Biden
+2020,Midwest,M,48.0,50.1,R+,-6.72,Biden
+2020,Minnesota,M,52.4,45.3,D+,2.74,Biden
+2020,Mississippi,S,41.1,57.6,R+,-21.31,Biden
+2020,Missouri,M,41.4,56.8,R+,-20.21,Biden
+2020,Montana,W,40.5,56.9,R+,-21.33,Biden
+2020,Nebraska,M,39.2,58.2,R+,-24.11,Biden
+2020,Nevada,W,50.1,47.7,R+,-2.09,Biden
+2020,New Hampshire,N,52.7,45.4,D+,2.96,Biden
+2020,New Jersey,N,57.1,41.3,D+,11.60,Biden
+2020,New Mexico,W,54.3,43.5,D+,6.50,Biden
+2020,New York,N,60.9,37.8,D+,18.91,Biden
+2020,North Carolina,S,48.6,49.9,R+,-5.91,Biden
+2020,North Dakota,M,31.8,65.1,R+,-38.97,Biden
+2020,Northeast,N,58.8,39.5,D+,15.05,Biden
+2020,Ohio,M,45.2,53.2,R+,-12.69,Biden
+2020,Oklahoma,S,32.3,65.4,R+,-38.42,Biden
+2020,Oregon,W,56.5,40.4,D+,12.07,Biden
+2020,Pennsylvania,N,49.9,48.7,R+,-3.34,Biden
+2020,Region,,,,,,Biden
+2020,Rhode Island,N,59.4,38.6,D+,16.66,Biden
+2020,South,S,45.1,53.4,R+,-13.01,Biden
+2020,South Carolina,S,43.4,55.1,R+,-16.39,Biden
+2020,South Dakota,M,35.6,61.8,R+,-31.41,Biden
+2020,Tennessee,S,37.5,60.7,R+,-28.20,Biden
+2020,Texas,S,46.5,52.1,R+,-10.20,Biden
+2020,Utah,W,37.2,57.5,R+,-25.93,Biden
+2020,Vermont,N,66.1,30.7,D+,32.06,Biden
+2020,Virginia,S,54.1,44.0,D+,5.77,Biden
+2020,Washington,W,58.0,38.8,D+,15.31,Biden
+2020,Washington D.C.,N,92.1,5.4,D+,84.39,Biden
+2020,West,W,57.0,40.4,D+,12.59,Biden
+2020,West Virginia,S,29.7,68.6,R+,-44.14,Biden
+2020,Wisconsin,M,49.4,48.8,R+,-3.90,Biden
+2020,Wyoming,W,26.6,69.9,R+,-49.50,Biden
+2024,Alabama,S,34.1,64.6,R+,-29.38,Trump
+2024,Alaska,W,41.4,54.5,R+,-12.19,Trump
+2024,Arizona,W,46.5,52.1,R+,-4.09,Trump
+2024,Arkansas,S,33.6,64.2,R+,-29.84,Trump
+2024,California,W,58.4,38.3,D+,22.30,Trump
+2024,Colorado,W,54.1,43.1,D+,12.79,Trump
+2024,Connecticut,N,56.4,41.9,D+,16.26,Trump
+2024,Delaware,N,56.5,41.8,D+,16.46,Trump
+2024,Florida,S,42.8,55.9,R+,-11.72,Trump
+2024,Georgia,S,48.3,50.5,R+,-0.71,Trump
+2024,Hawaii,W,60.6,37.5,D+,25.06,Trump
+2024,Idaho,W,30.3,66.6,R+,-36.02,Trump
+2024,Illinois,M,54.2,43.3,D+,12.63,Trump
+2024,Indiana,M,39.5,58.4,R+,-17.80,Trump
+2024,Iowa,M,42.5,55.7,R+,-11.95,Trump
+2024,Kansas,M,40.8,56.8,R+,-14.91,Trump
+2024,Kentucky,S,33.9,64.4,R+,-29.53,Trump
+2024,Louisiana,S,38.2,60.2,R+,-20.86,Trump
+2024,Maine,N,52.4,45.5,D+,8.59,Trump
+2024,Maryland,N,62.6,34.1,D+,31.01,Trump
+2024,Massachusetts,N,61.2,36.0,D+,27.41,Trump
+2024,Michigan,M,48.2,49.6,D+,0.06,Trump
+2024,Midwest,M,46.1,51.9,R+,-4.42,Trump
+2024,Minnesota,M,50.9,46.7,D+,5.84,Trump
+2024,Mississippi,S,38.0,60.8,R+,-21.65,Trump
+2024,Missouri,M,40.0,58.3,R+,-17.17,Trump
+2024,Montana,W,38.4,58.3,R+,-19.08,Trump
+2024,Nebraska,M,38.9,59.3,R+,-19.34,Trump
+2024,Nevada,W,47.5,50.6,R+,-1.66,Trump
+2024,New Hampshire,N,50.6,47.9,D+,4.32,Trump
+2024,New Jersey,N,51.8,45.9,D+,7.53,Trump
+2024,New Mexico,W,51.9,45.9,D+,7.64,Trump
+2024,New York,N,55.6,43.1,D+,14.18,Trump
+2024,North Carolina,S,47.6,50.9,R+,-1.76,Trump
+2024,North Dakota,M,30.5,67.0,R+,-35.89,Trump
+2024,Northeast,N,55.1,43.0,D+,13.83,Trump
+2024,Ohio,M,43.7,54.8,R+,-9.81,Trump
+2024,Oklahoma,S,31.9,66.2,R+,-33.44,Trump
+2024,Oregon,W,55.3,41.0,D+,16.37,Trump
+2024,Pennsylvania,N,48.5,50.2,R+,-0.23,Trump
+2024,Region,,,,,,Trump
+2024,Rhode Island,N,55.5,41.8,D+,15.66,Trump
+2024,South,S,42.2,56.2,R+,-12.75,Trump
+2024,South Carolina,S,40.4,58.2,R+,-16.62,Trump
+2024,South Dakota,M,34.2,63.4,R+,-28.39,Trump
+2024,Tennessee,S,34.4,64.0,R+,-28.62,Trump
+2024,Texas,S,42.4,56.0,R+,-12.38,Trump
+2024,Utah,W,37.2,58.4,R+,-20.71,Trump
+2024,Vermont,N,63.8,32.3,D+,34.27,Trump
+2024,Virginia,S,51.8,46.1,D+,7.40,Trump
+2024,Washington,W,57.2,39.0,D+,20.43,Trump
+2024,Washington D.C.,N,90.3,6.5,D+,88.13,Trump
+2024,West,W,53.5,43.4,D+,12.00,Trump
+2024,West Virginia,S,28.1,69.9,R+,-41.19,Trump
+2024,Wisconsin,M,48.7,49.6,D+,0.63,Trump
+2024,Wyoming,W,25.8,71.6,R+,-45.46,Trump
