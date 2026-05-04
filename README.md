@@ -23,6 +23,20 @@ To conduct this analysis, we collected historical presidential election results 
 
 
  1. FRED Unemployment Rates
+  The first dataset is unemployment data pulled from the federal reserve bank of St. Louis. The cleaned data set can be found in the "Acquire FRED Data" folder, under the title "fred_unemployment_raw.csv." Each oservation is a specific state in a specific month, dating back to 1976. The attributes are as follows:
+
+**date:** date the information was collected, in the format YYYY-MM-DD (each one on the first day of the month)
+**state:** the name of the state ex. 'Alabama'
+**series_id:** this is how the API pulls the data, for example 'ALUR' pulled unemployment rate (UR) for Alabama
+**unemployment_rate:** the unemployment rate, calculated by taking the total number of unemployed persons divided by the total size of the labor force, multiplied by 100. 
+**realtime_start/end:** The date that we pulled the data (irrevelant for analysis and will be dropped later)
+
+In terms of constraints, there are a number of requirements and prohibitions applicable to this data set. For example, if instead of a project, this was an application, we would be required to state that "This product uses the FRED® API but is not endorsed or certified by the Federal Reserve Bank of St. Louis." We also are not allowed to use the FRED API for any activity in connection to "spyware, adware, viruses, worms, defects, Trojan horses, or other malicious programs or code, counterfeit goods, items subject to U.S. embargo, unsolicited mass distribution of email ("spam"), multi-level marketing proposals, hate materials, hacking, surveillance, interception, descrambling equipment, libelous, defamatory, harassing, obscene, pornographic, abusive or otherwise offensive content, prostitution, body parts and bodily fluids, stolen products and items used for theft, fireworks, explosives, and hazardous materials, government IDs, police items, gambling, professional services regulated by state licensing regimes, non-transferable items such as airline tickets or event tickets, weapons and accessories."
+
+Similarly, there were no ethical constraints we encountered, because there are no real ethical barriers with our project. 
+
+The reason this dataset was chosen for our project is becuase the FRED API is the go to source for data regarding the US economy. We knew that data from this source would be seen as reliable and would be easy to handle from a data acquisition standpoint. 
+
  2. Presidential Election Results
 
 ## Data quality
