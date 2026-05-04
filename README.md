@@ -3,7 +3,7 @@
 - Joy Olalusi
 - Michael Patera
 
- ## Project Summary
+ ## Project Summary - 
 [500-600 words] Description of your project, motivation, research question(s), and any findings.
 Throughout the semester, we developed a project analyzing U.S. presidential elections alongside unemployment rates. Every four years, Americans cast their votes for president, but these decisions are not shaped by a single moment like Election Day. Instead, voting behavior is influenced by broader factors such as economic conditions, shifting demographics, and voter sentiment. Among these, unemployment rates are a key variable.
 
@@ -18,11 +18,12 @@ To conduct this analysis, we collected historical presidential election results 
 
 
 
- ## Data Profiles
+ ## Data Profiles - Michael for FRED, Joy for elections
 [max 2000 words] For each dataset used, describe its structure, content, and characteristics. Specify the location of the dataset files in your project repository. Discuss any ethical or legal constraints associated with the data and explain how the datasets relate to your questions
 
 
- 1. FRED Unemployment Rates
+** 1. FRED Unemployment Rates**
+
   The first dataset is unemployment data pulled from the federal reserve bank of St. Louis. The cleaned data set can be found in the "Acquire FRED Data" folder, under the title "fred_unemployment_raw.csv." Each oservation is a specific state in a specific month, dating back to 1976. The attributes are as follows:
 
 **date:** date the information was collected, in the format YYYY-MM-DD (each one on the first day of the month)
@@ -39,24 +40,26 @@ The reason this dataset was chosen for our project is becuase the FRED API is th
 
  2. Presidential Election Results
 
-## Data quality
+## Data quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
 
-## Data cleaning
+## Data cleaning - Michael for FRED, Joy for elections
 [max 1000 words] Summarize the data cleaning operations you performed and explain how each operation addressed specific data quality issues in your datasets.
 
-## Findings
+## Findings - Joy
 [~500 words] Description of any findings including numeric results and/or visualizations.
-## Future work
+## Future work - either of us
 [~500-1000 words] Brief discussion of any lessons learned and potential future work.
-## Challenges 
+## Challenges - whoever didn't do future work can do challenges
 [~500 words] Discuss the main challenges you encountered while working on the project.
 
 
 After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is effected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
 
-## Reproducing
+## Reproducing - Michael
 Sequence of steps required for someone else to reproduce your results.
 
-### References
+### References - Michael for FRED, Joy for elections
  Formatted citations for any papers, datasets, or software used in your project.
+ 
+U.S. Bureau of Labor Statistics, Unemployment Rate by State [Series IDs: ALUR, AKUR, ... WYUR], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/release?rid=112, March 3, 2026
