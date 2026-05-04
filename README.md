@@ -37,6 +37,10 @@ To conduct this analysis, we collected historical presidential election results 
 [~500-1000 words] Brief discussion of any lessons learned and potential future work.
 ## Challenges 
 [~500 words] Discuss the main challenges you encountered while working on the project.
+
+
+After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is effected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
+
 ## Reproducing
 Sequence of steps required for someone else to reproduce your results.
 
