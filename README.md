@@ -1,4 +1,4 @@
-# Title
+# Unemployment and the Partisan Shift: A State-Level Analysis of U.S. Elections (1976–2024)
 
 - Joy Olalusi
 - Michael Patera
@@ -14,7 +14,7 @@ To conduct this analysis, we collected historical presidential election results 
 1. Does an increase in unemployment since the previous election raise the likelihood that a state switches its winning party?
 2. Does the relationship between a state's unemployment rate and its partisan lean (P.S. Score) strengthen or weaken over time?
 
-** add findings
+Our findings revealed that the relationship between unemployment and electoral outcomes is more nuanced than a simple cause-and-effect. While unemployment change proved to be a weaker predictor of party switching than initially expected, our longer-term analysis uncovered a notable shift in how unemployment and partisan lean relate to one another across decades, a pattern that points to a broader realignment in American electoral politics. These results are explored in depth in the sections that follow.
 
 
 
