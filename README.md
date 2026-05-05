@@ -43,6 +43,21 @@ The reason this dataset was chosen for our project is becuase the FRED API is th
 ## Data quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
 
+**FRED**
+Pulling data directly from the FRED API is a high quality data source. Assesing the accuracy, completeness, timeliness, consistency, and interprebility, supports this view. 
+
+Accuracy is a major strength of FRED data, because it aggregates data from the Bureau of Labor Statistics (BLS), Bureau of Economic Analysis (BEA), and Federal Reserve banks. Since there are rigorous methods behind this data collection, the data collection is considered trustworthy. From time to time, macro data is retroactively revised to reflect new information, so it is important to reflect revision histories. 
+
+In our case, the unemployment data is very complete. We made sure to begin our analysis in a year where all the states have data available. Other data from FRED may be less complete, however that was not an issue for us. 
+
+Timeliness is another important factor, however since the most recent data we need is from last election cycle, it is not an important factor for our project.
+
+Consistency was also strong with our dataset, since we only used one metric (unemployment).
+
+Finally, as covered above, the information we pulled was very easy to interpret, supported by metadata provided by FRED. The variable names were simple, however users not familiar with the data could potentially be confused. 
+
+The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired, and the workbook also shows how we cleaned the data to integrate it with our second data set. 
+
 ## Data cleaning - Michael for FRED, Joy for elections
 [max 1000 words] Summarize the data cleaning operations you performed and explain how each operation addressed specific data quality issues in your datasets.
 
