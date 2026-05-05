@@ -38,7 +38,7 @@ Similarly, there were no ethical constraints we encountered, because there are n
 
 The reason this dataset was chosen for our project is becuase the FRED API is the go to source for data regarding the US economy. We knew that data from this source would be seen as reliable and would be easy to handle from a data acquisition standpoint. 
 
- 2. Presidential Election Results
+**2. Presidential Election Results**
 
 ## Data quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
@@ -56,10 +56,18 @@ Consistency was also strong with our dataset, since we only used one metric (une
 
 Finally, as covered above, the information we pulled was very easy to interpret, supported by metadata provided by FRED. The variable names were simple, however users not familiar with the data could potentially be confused. 
 
-The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired, and the workbook also shows how we cleaned the data to integrate it with our second data set. 
+The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired using the FRED API. 
 
 ## Data cleaning - Michael for FRED, Joy for elections
 [max 1000 words] Summarize the data cleaning operations you performed and explain how each operation addressed specific data quality issues in your datasets.
+**FRED**
+All of the data cleaning is included in the "acquire_fred_data.ipynb" notebook in the "Acquire FRED Data" folder. Below is a summary of the operations done to clean the data:
+
+1. First, we broke the 'date' column into month and year.
+2. Next, we created a new dataframe consisting only of data from November (election month). This was made simple due to the previous step.
+3. Finally, we dropped the unecessary columns.
+
+After this, the FRED data set was ready to merge. 
 
 ## Findings - Joy
 [~500 words] Description of any findings including numeric results and/or visualizations.
@@ -72,7 +80,7 @@ The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired,
 After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is effected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
 
 ## Reproducing - Michael
-Sequence of steps required for someone else to reproduce your results.
+We decided to use snakemake in order to automate our workflow. 
 
 ### References - Michael for FRED, Joy for elections
  Formatted citations for any papers, datasets, or software used in your project.
