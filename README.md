@@ -105,8 +105,7 @@ Within the file, you are able to find cleaned presidential data from "extract_el
 
 ## Findings - Joy
 [~500 words] Description of any findings including numeric results and/or visualizations.
-## Future work - Michael
-[~500-1000 words] Brief discussion of any lessons learned and potential future work.
+## Future work
 While I am proud of our work, we simply scratched the surface of what this analysis could reveal. Not only could we go much deeper in terms of the relationship between unemployment and voting patterns, but we can also analyze other macro indicators. Each of these indicators could tell a different part of the relationship between the economy and voting patterns. 
 
 The first one that comes to mind is CPI (Consumer Price Index). This tracks the movement of prices in the economy, and is the main metric the FED uses to track inflation. When consumers see the prices of items like gas, eggs, milk, bread, beef, poultry, soap, and other household staples increase beyond what they can afford, that would also cause frustration come voting season. Voters who feel like their economic position has squeezed since the last election frequently hold the incumbent party responsible, regardless if they are the true reason. CPI is interesting to us because it is the only metric that will always directly impact every American. While someone may not have been laid off, they certainly feel the price increase. We could also go deeper, and analyze which specific categories of goods affect voting patterns. Maybe voters in rural states care more about energy prices, and less about dairy prices since they live closer to farms. Perhaps Urban consumers are the opposite. The depth of CPI measurers could open up many questions worth pursuing.
@@ -128,7 +127,7 @@ _Final Note_
 While we did a good job of planning our project out before we started, we still faced a couple unexpected challenges at the end when we attempted to reproduce our workflow. In the jupyter notebook used to acquire data from FRED, some sort of the API was down, which was causing problems within our workflow. This took a short amount of time to troubleshoot, and so we had to implement a section of the code that would bypass any states where information was down. 
 
 
-## Reproducing - Michael
+## Reproducibility
 We decided to use snakemake in order to automate our workflow. To reproduce our workflow, you will need a machine with Anaconda/Miniconda installed. Additionally, you need to acquire a FRED API key which can be obtained for free at fred.stlouisfed.org. 
 
 In your command prompt, start off by cloning our repository, then navigate into it. You then need to replicate and activate our environment:
