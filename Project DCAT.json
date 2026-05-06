@@ -1,0 +1,29 @@
+{
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@type": "dcat:Dataset",
+  "accessLevel": "public",
+  "contactPoint": {
+    "@type": "vcard:Contact",
+    "fn": "Team JM",
+    "hasEmail": ["jolal2@Illinois.edu, mpatera2@illinois.edu"]
+  },
+  "description": "This dataset supports an analysis of U.S. presidential election outcomes and state-level unemployment rates spanning 1976 to 2024. It combines historical election results with FRED unemployment data to examine two research questions: whether rising unemployment increases the likelihood of a state switching its winning party, and whether the relationship between unemployment and partisan lean has strengthened or weakened over time. The fused dataset includes state-level vote shares, partisan scores, election winners, election-year unemployment rates, and unemployment change since the prior election.",
+  "keyword": [
+    "presidential elections",
+    "unemployment",
+    "partisan lean",
+    "party switching",
+    "U.S. states",
+    "electoral realignment",
+    "FRED",
+    "political science",
+    "economic conditions",
+    "voting behavior"
+  ],
+  "modified": "2025-05-06",
+  "title": "Unemployment and the Partisan Shift: A State-Level Analysis of U.S. Elections (1976–2024)",
+  "license": [
+  "FRED Data: https://fred.stlouisfed.org/legal/",
+  "Election Data: https://creativecommons.org/licenses/by/4.0/"
+]
+}
