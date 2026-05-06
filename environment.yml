@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - snakemake
   - jupyter
   - nbconvert
   - pandas
@@ -12,3 +11,7 @@ dependencies:
   - requests
   - scipy
   - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+    - snakemake
