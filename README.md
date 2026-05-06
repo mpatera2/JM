@@ -86,11 +86,35 @@ Within the file, you are able to find cleaned presidential data from "extract_el
 After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is affected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
 
 _Final Note_
-While we did a good job of planning our project out before we started, we still faced one unexpected challenge at the end when we attempted to reproduce our workflow. In the jupyter notebook used to acquire data from FRED, some sort of the API was down, which was causing problems within our workflow. This took a short amount of time to troubleshoot, and nothing could be done until the API was working again. 
+While we did a good job of planning our project out before we started, we still faced a couple unexpected challenges at the end when we attempted to reproduce our workflow. In the jupyter notebook used to acquire data from FRED, some sort of the API was down, which was causing problems within our workflow. This took a short amount of time to troubleshoot, and so we had to implement a section of the code that would bypass any states where information was down. 
 
 
 ## Reproducing - Michael
-We decided to use snakemake in order to automate our workflow. (still working)
+We decided to use snakemake in order to automate our workflow. To reproduce our workflow, you will need a machine with Anaconda/Miniconda installed. Additionally, you need to acquire a FRED API key which can be obtained for free at fred.stlouisfed.org. 
+
+In your command prompt, start off by cloning our repository, then navigate into it. You then need to replicate and activate our environment:
+git clone https://github.com/mpatera2/JM
+cd JM
+conda env create -f environment.yml
+conda activate election-pipeline
+
+Like we mentioned, you need your own FRED API Key. To insert your API Key, run the following line:
+echo API KEY HERE> "PATH HERE\Acquire FRED Data\apikey.txt"
+
+Example (not a real API Key)
+echo 8de6047623ab27c0163950740d65k807> "C:\Users\7mich\JM\Acquire FRED Data\apikey.txt"
+
+Finally, you can run the pipeline:
+snakemake --cores 1
+
+To verify that your output matches ours, you can take a look at your final notebook and compare to ours:
+cd Analyze Data
+jupyter notebook
+
+Click on election_data_analysis_and_visualization_executed, and compare to the version in our analyze data folder. A couple notes:
+Due to the API data issue identified earlier, there may be slight variances. For example, at the time of writing this, a couple states were having trouble pulling API data. This resulted in the 'Switch Rate by Unemployment Change Bracket' chart to have one observation bucketed in the -3 to -1 box instead of the -1 to 1 box. The rest of the charts are still nearly identical, however due to the API issue, checking SHA-256 checksums may indicate different results. Overall, I enjoyed the process of learning how to use Snakemake. 
+
+
 
 ### References - Michael for FRED, Joy for elections
  Formatted citations for any papers, datasets, or software used in your project.
