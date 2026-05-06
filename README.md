@@ -22,7 +22,7 @@ Our findings revealed that the relationship between unemployment and electoral o
 [max 2000 words] For each dataset used, describe its structure, content, and characteristics. Specify the location of the dataset files in your project repository. Discuss any ethical or legal constraints associated with the data and explain how the datasets relate to your questions
 
 
-** 1. FRED Unemployment Rates**
+** 1.FRED Unemployment Rates**
 
   The first dataset is unemployment data pulled from the federal reserve bank of St. Louis. The cleaned data set can be found in the "Acquire FRED Data" folder, under the title "fred_unemployment_raw.csv." Each oservation is a specific state in a specific month, dating back to 1976. The attributes are as follows:
 
