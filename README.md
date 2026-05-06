@@ -64,7 +64,7 @@ Our second dataset is the presidential election state-level data derived from Da
 
 In terms of legal constraints regarding the Daily Kos Elections dataset it is authored by Stephen Wolf and David Nir, under the Daily Kos. For academic uses proper citaiton includes the authors, title, publisher, date, and URL as specified in their citation guide. The underlying election results are sourced from Dave Leip's Atlas of U.S. Presidential Elections, which is itself a proprietary database, meaning the data passes through two layers of ownership before reaching our project .The spreadsheet is publiclhy accesible , but credit must be given in any academic or journalist use.In terms of ethical constraints, working with this data has raised no flags. There is no personal identificators , votes are only shown at state level. Partisanship Score methodology is transparently documented, and regional classifications are drawn from the U.S. Census Bureau, a neutral government source. The Daily Kos dataset was esssential to our project because it was able to provide raw election results, and significantly partisan score precalculated. This was very important for our second research question, allowing us easier analysis between unemployment and partisan lean.
 
-## Data quality - Michael for FRED, Joy for elections
+## Data Quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
 
 **FRED**
@@ -82,9 +82,9 @@ Finally, as covered above, the information we pulled was very easy to interpret,
 
 The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired using the FRED API. 
 
-## Data cleaning - Michael for FRED, Joy for elections
-[max 1000 words] Summarize the data cleaning operations you performed and explain how each operation addressed specific data quality issues in your datasets.
+## Data Cleaning 
 **FRED**
+
 All of the data cleaning is included in the "acquire_fred_data.ipynb" notebook in the "Acquire FRED Data" folder. Below is a summary of the operations done to clean the data:
 
 1. First, we broke the 'date' column into month and year.
@@ -93,7 +93,8 @@ All of the data cleaning is included in the "acquire_fred_data.ipynb" notebook i
 
 After this, the FRED data set was ready to merge. 
 
-**Election Data*
+**Election Data**
+
 Within the file, you are able to find cleaned presidential data from "extract_election_data.ipynb" within the "Clean Election Data" folder.This section below details the data cleaning steps taken prior to analysis.
 
 1. First we visually analyzed the csv of our data. The dataset from Daily Kos organized key attributes horizontally , making it hard to call specific attributes like Year, P.S Score, and Democratic/ Republican candidates, features were just labeled as numbers
