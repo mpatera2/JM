@@ -68,6 +68,7 @@ In terms of legal constraints regarding the Daily Kos Elections dataset it is au
 [500-1000 words] Summary of the quality assessment.
 
 **FRED**
+
 Pulling data directly from the FRED API is a high quality data source. Assesing the accuracy, completeness, timeliness, consistency, and interprebility, supports this view. 
 
 Accuracy is a major strength of FRED data, because it aggregates data from the Bureau of Labor Statistics (BLS), Bureau of Economic Analysis (BEA), and Federal Reserve banks. Since there are rigorous methods behind this data collection, the data collection is considered trustworthy. From time to time, macro data is retroactively revised to reflect new information, so it is important to reflect revision histories. 
@@ -82,6 +83,8 @@ Finally, as covered above, the information we pulled was very easy to interpret,
 
 The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired using the FRED API. 
 
+**Election Data**
+
 Our second dataset was pulled from Daily Kos Elections, which we would also consider a high quality source. Assessing the election data's accuracy, completeness, timeliness, consistency, and interpretability supports this view.
 
 Accuracy is a major strength of this dataset because the underlying election results are sourced from Dave Leip's Atlas of U.S. Presidential Elections, a well regarded and widely cited reference in political science. The Partisanship Score methodology is transparently documented, comparing the percentage point difference in two party vote share margins between each state and the national result in a given year. One caveat noted by the authors is that Partisanship Score values are less reliable for elections before the mid 20th century due to strong third parties and incomplete ballot access, however this does not affect our analysis since we only work with elections from 1976 onward.
@@ -90,7 +93,7 @@ Completeness is also strong for our use case. The dataset covers all 50 states a
 
 Consistency was strong throughout, as the same methodology for calculating Partisan Scores was applied uniformly across all election years. State regions followed a consistent classification scheme based on U.S. Census Bureau definitions, with Delaware, Maryland, and Washington D.C. reassigned to the Northeast.
 
-Finally, interpretability was generally strong, as the dataset includes clearly labeled columns for vote shares, partisan scores, state winners, and regional classifications. The workbook "extract_election_data.ipynb" clearly shows how the raw data was restructured and cleaned for use in our analysis.Sonnet 4.6
+Finally, interpretability was generally strong, as the dataset includes clearly labeled columns for vote shares, partisan scores, state winners, and regional classifications. The workbook "extract_election_data.ipynb" clearly shows how the raw data was restructured and cleaned for use in our analysis.
 
 ## Data Cleaning 
 **FRED**
