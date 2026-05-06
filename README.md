@@ -69,6 +69,10 @@ All of the data cleaning is included in the "acquire_fred_data.ipynb" notebook i
 
 After this, the FRED data set was ready to merge. 
 
+**Election Data*
+Within the file, you are able to find cleaned presidential data from "extract_election_data.ipynb" within the "Clean Election Data" folder.This section below  details the data cleaning steps taken prior to analysis.
+
+
 ## Findings - Joy
 [~500 words] Description of any findings including numeric results and/or visualizations.
 ## Future work - either of us
