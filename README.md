@@ -64,8 +64,7 @@ Our second dataset is the presidential election state-level data derived from Da
 
 In terms of legal constraints regarding the Daily Kos Elections dataset it is authored by Stephen Wolf and David Nir, under the Daily Kos. For academic uses proper citation includes the authors, title, publisher, date, and URL as specified in their citation guide. The underlying election results are sourced from Dave Leip's Atlas of U.S. Presidential Elections, which is itself a proprietary database, meaning the data passes through two layers of ownership before reaching our project .The spreadsheet is publicly accessible , but credit must be given in any academic or journalist use.In terms of ethical constraints, working with this data has raised no flags. There are no personal identificators , votes are only shown at state level. Partisanship Score methodology is transparently documented, and regional classifications are drawn from the U.S. Census Bureau, a neutral government source. The Daily Kos dataset was esssential to our project because it was able to provide raw election results, and significantly partisan score precalculated. This was very important for our second research question, allowing us easier analysis between unemployment and partisan lean.
 
-## Data Quality - Michael for FRED, Joy for elections
-[500-1000 words] Summary of the quality assessment.
+## Data Quality
 
 **FRED**
 
@@ -192,3 +191,5 @@ analyze_data: Takes the fused data and performs analysis
  Formatted citations for any papers, datasets, or software used in your project.
  
 U.S. Bureau of Labor Statistics, Unemployment Rate by State [Series IDs: ALUR, AKUR, ... WYUR], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/release?rid=112, March 3, 2026
+
+Daily Kos. "Daily Kos Elections Presidential Election Results & Partisanship Scores ('P.S.') by State, 1828-Present." 6 May 2026, docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit?gid=29622862#gid=29622862.
