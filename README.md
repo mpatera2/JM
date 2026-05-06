@@ -22,7 +22,7 @@ Secondly, when examining the correlation between state unemployment rates and pa
 
  ## Data Profiles 
 
-** 1.FRED Unemployment Rates**
+**1.FRED Unemployment Rates**
 
   The first dataset is unemployment data pulled from the federal reserve bank of St. Louis. The cleaned data set can be found in the "Acquire FRED Data" folder, under the title "fred_unemployment_raw.csv." Each oservation is a specific state in a specific month, dating back to 1976. The attributes are as follows:
 
@@ -94,7 +94,12 @@ All of the data cleaning is included in the "acquire_fred_data.ipynb" notebook i
 After this, the FRED data set was ready to merge. 
 
 **Election Data*
-Within the file, you are able to find cleaned presidential data from "extract_election_data.ipynb" within the "Clean Election Data" folder.This section below  details the data cleaning steps taken prior to analysis.
+Within the file, you are able to find cleaned presidential data from "extract_election_data.ipynb" within the "Clean Election Data" folder.This section below details the data cleaning steps taken prior to analysis.
+
+1. First we visually analyzed the csv of our data. The dataset from Daily Kos organized key attributes horizontally , making it hard to call specific attributes like Year, P.S Score, and Democratic/ Republican candidates, features were just labeled as numbers
+2. To address this, we manually defined a column mapping that identified exactly which column positions corresponded to Democratic %, Republican %, and Partisan Score for each election year from 1976 to 2024. This allowed us to loop through the raw data row by row and restructure it into a clean long-format table where each row represents one state in one election year.
+3. Once restructured, we derived the State Winner column by comparing each state's Democratic and Republican vote shares and labeling the winning party accordingly. National winners were also added manually using a predefined dictionary.
+4. Finally, the cleaned dataset was exported as election_results_1976_2024.csv and a SHA-256 checksum file was generated to confirm the integrity of the output file before merging it with the FRED unemployment data.
 
 
 ## Findings - Joy
