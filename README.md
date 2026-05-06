@@ -20,9 +20,7 @@ Numerically, we were able to draw two key conclusions from our analysis. First, 
 Secondly, when examining the correlation between state unemployment rates and partisan lean scores across every presidential election from 1976 to 2024, a directional reversal emerged over time between the Republican and Democratic parties. In earlier decades, higher unemployment was associated with more Democratic-leaning states, consistent with the historical alignment between labor and the Democratic Party. However, beginning in the 2000s and becoming more pronounced through 2016 and 2020, that relationship flipped.  States with higher unemployment increasingly leaned Republican. This shift was statistically significant in several recent election years, pointing to a broader electoral realignment in which economic distress has not disappeared as a political force, but has migrated across party lines.
 
 
- ## Data Profiles - Michael for FRED, Joy for elections
-[max 2000 words] For each dataset used, describe its structure, content, and characteristics. Specify the location of the dataset files in your project repository. Discuss any ethical or legal constraints associated with the data and explain how the datasets relate to your questions
-
+ ## Data Profiles 
 
 ** 1.FRED Unemployment Rates**
 
@@ -46,7 +44,19 @@ The reason this dataset was chosen for our project is becuase the FRED API is th
 
 **2. Presidential Election Results**
 
-The second dataset 
+Our second dataset is the presidential election state-level data derived from Daily Kos Elections.The cleaned dataset can be found in the "Clean Election Data" folder, under the title "election_results_1976_2024." Each observation represents a specific state in a specific presidential election year, spanning from 1976 to 2024. The attributes are as follows:
+
+**Year:** The presidential election year, recorded as a four-digit integer (e.g., 1976, 1980).
+**State:** The name of the U.S. state the observation corresponds to (e.g., "Alabama").
+**Region:** The geographic region the state belongs to, categorized as Northeast, South, Midwest, or West.
+**Democratic %:** The percentage of the state's popular vote received by the Democratic presidential candidate, expressed as a decimal or percentage.
+**Republican %:** The percentage of the state's popular vote received by the Republican presidential candidate, expressed as a decimal or percentage.
+**P.S.:** The raw Partisan Score for the state, a measure of partisan lean derived from the Democratic and Republican vote shares.
+**P.S. Score:** A normalized or scaled version of the Partisan Score, used to enable consistent comparisons of partisan lean across election years.
+**National Winner:** The name of the candidate who won the national presidential election that year, along with their party initial (e.g., Biden (D), Trump (R)).
+
+In terms of legal constraints regarding the Daily Kos Elections dataset it is authored by Stephen Wolf and David Nir, under the Daily Kos. For academic uses proper citaiton includes the authors, title, publisher, date, and URL as specified in their citation guide. The underlying election results are sourced from Dave Leip's Atlas of U.S. Presidential Elections, which is itself a proprietary database, meaning the data passes through two layers of ownership before reaching our project .The spreadsheet is publiclhy accesible , but credit must be given in any academic or journalist use.In terms of ethical constraints, working with this data has raised no flags. There is no personal identificators , votes are only shown at state level. Partisanship Score methodology is transparently documented, and regional classifications are drawn from the U.S. Census Bureau, a neutral government source. The Daily Kos dataset was esssential to our project because it was able to provide raw election results, and significantly partisan score precalculated. This was very important for our second research question, allowing us easier analysis between unemployment and partisan lean.
+
 ## Data quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
 
