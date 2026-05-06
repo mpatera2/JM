@@ -82,6 +82,16 @@ Finally, as covered above, the information we pulled was very easy to interpret,
 
 The workbook "acquire_fred_data.ipynb," clearly shows how the data was acquired using the FRED API. 
 
+Our second dataset was pulled from Daily Kos Elections, which we would also consider a high quality source. Assessing the election data's accuracy, completeness, timeliness, consistency, and interpretability supports this view.
+
+Accuracy is a major strength of this dataset because the underlying election results are sourced from Dave Leip's Atlas of U.S. Presidential Elections, a well regarded and widely cited reference in political science. The Partisanship Score methodology is transparently documented, comparing the percentage point difference in two party vote share margins between each state and the national result in a given year. One caveat noted by the authors is that Partisanship Score values are less reliable for elections before the mid 20th century due to strong third parties and incomplete ballot access, however this does not affect our analysis since we only work with elections from 1976 onward.
+
+Completeness is also strong for our use case. The dataset covers all 50 states across every presidential election from 1976 to 2024 with no gaps in the observations relevant to our research questions. Timeliness was not a major concern since we were working with historical election cycles rather than real time data, and the dataset covers elections through 2024, making it sufficiently current for our purposes.
+
+Consistency was strong throughout, as the same methodology for calculating Partisan Scores was applied uniformly across all election years. State regions followed a consistent classification scheme based on U.S. Census Bureau definitions, with Delaware, Maryland, and Washington D.C. reassigned to the Northeast.
+
+Finally, interpretability was generally strong, as the dataset includes clearly labeled columns for vote shares, partisan scores, state winners, and regional classifications. The workbook "extract_election_data.ipynb" clearly shows how the raw data was restructured and cleaned for use in our analysis.Sonnet 4.6
+
 ## Data Cleaning 
 **FRED**
 
@@ -103,7 +113,7 @@ Within the file, you are able to find cleaned presidential data from "extract_el
 4. Finally, the cleaned dataset was exported as election_results_1976_2024.csv and a SHA-256 checksum file was generated to confirm the integrity of the output file before merging it with the FRED unemployment data.
 
 
-## Findings - Joy
+## Findings
 Our analysis centered on two research questions examining the relationship between state level unemployment rates and U.S. presidential election outcomes from 1976 to 2024. The findings from both questions painted us a picture of how economic conditions interact with electoral behavior over time. Findings reference numerics and visualization figures from the election_data_analysis_and_visualizations.ipynb in the Analyze Data folder.
 
 For our first research question, we investigated whether an increase in unemployment since the previous election raises the likelihood that a state switches its winning party. To answer this, we created two key columns: the change in unemployment since the prior election and a binary switched column. Across all 600 state election observations from 1980 to 2024, the overall switch rate was 11.8%, meaning the large majority of states consistently voted for the same party from one cycle to the next. We then fit a logistic regression model using both unemployment change and election year unemployment as predictors of party switching. The model returned a coefficient of -0.0586 for unemployment change and 0.1949 for election year unemployment, neither of which indicated a meaningful effect on the likelihood of switching. While the model reported an accuracy of 88.17%, this figure is misleading, as the model predicted zero switches across all 600 observations, achieving high accuracy simply by always predicting a state would stay the same due to the class imbalance of 529 non-switches versus only 71 actual switches.
