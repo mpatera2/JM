@@ -75,16 +75,21 @@ Within the file, you are able to find cleaned presidential data from "extract_el
 
 ## Findings - Joy
 [~500 words] Description of any findings including numeric results and/or visualizations.
-## Future work - either of us
+## Future work - Michael
 [~500-1000 words] Brief discussion of any lessons learned and potential future work.
-## Challenges - whoever didn't do future work can do challenges
+## Challenges - Joy
 [~500 words] Discuss the main challenges you encountered while working on the project.
+
 
 
 After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is effected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
 
+_Final Note_
+While we did a good job of planning our project out before we started, we still faced one unexpected challenge at the end when we attempted to reproduce our workflow. In the jupyter notebook used to acquire data from FRED, some sort of the API was down, which was causing problems within our workflow. This took a short amount of time to troubleshoot, and nothing could be done until the API was working again. 
+
+
 ## Reproducing - Michael
-We decided to use snakemake in order to automate our workflow. 
+We decided to use snakemake in order to automate our workflow. (still working)
 
 ### References - Michael for FRED, Joy for elections
  Formatted citations for any papers, datasets, or software used in your project.
