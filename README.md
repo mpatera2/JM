@@ -3,8 +3,7 @@
 - Joy Olalusi
 - Michael Patera
 
- ## Project Summary - 
-[500-600 words] Description of your project, motivation, research question(s), and any findings.
+## Project Summary 
 Throughout the semester, we developed a project analyzing U.S. presidential elections alongside unemployment rates. Every four years, Americans cast their votes for president, but these decisions are not shaped by a single moment like Election Day. Instead, voting behavior is influenced by broader factors such as economic conditions, shifting demographics, and voter sentiment. Among these, unemployment rates are a key variable.
 
 We were particularly interested in exploring whether there is a relationship between unemployment rates and presidential election outcomes. Our motivation stems from a central question in political science: while economic conditions are known to influence voting behavior, how does this effect vary at the state level? For example, a state with historically strong union ties may respond differently to unemployment changes than one with a more service-based economy.
@@ -14,9 +13,12 @@ To conduct this analysis, we collected historical presidential election results 
 1. Does an increase in unemployment since the previous election raise the likelihood that a state switches its winning party?
 2. Does the relationship between a state's unemployment rate and its partisan lean (P.S. Score) strengthen or weaken over time?
 
+
 Our findings revealed that the relationship between unemployment and electoral outcomes is more nuanced than a simple cause-and-effect. While unemployment change proved to be a weaker predictor of party switching than initially expected, our longer-term analysis uncovered a notable shift in how unemployment and partisan lean relate to one another across decades, a pattern that points to a broader realignment in American electoral politics. These results are explored in depth in the sections that follow.
 
-+++ more words
+Numerically, we were able to draw two key conclusions from our analysis. First, unemployment change proved to be a weaker predictor of party switching than we initially expected. Across all unemployment change brackets, states switched their winning party at roughly similar rates, and our logistic regression model led to this analysis,  by producing small coefficients and almost flat predicted probability curves. The model showed that neither election-year unemployment nor the change in unemployment since the prior election were strong enough variables on their own to reliably predict whether a state would flip parties.
+Secondly, when examining the correlation between state unemployment rates and partisan lean scores across every presidential election from 1976 to 2024, a directional reversal emerged over time between the Republican and Democratic parties. In earlier decades, higher unemployment was associated with more Democratic-leaning states, consistent with the historical alignment between labor and the Democratic Party. However, beginning in the 2000s and becoming more pronounced through 2016 and 2020, that relationship flipped.  States with higher unemployment increasingly leaned Republican. This shift was statistically significant in several recent election years, pointing to a broader electoral realignment in which economic distress has not disappeared as a political force, but has migrated across party lines.
+
 
  ## Data Profiles - Michael for FRED, Joy for elections
 [max 2000 words] For each dataset used, describe its structure, content, and characteristics. Specify the location of the dataset files in your project repository. Discuss any ethical or legal constraints associated with the data and explain how the datasets relate to your questions
