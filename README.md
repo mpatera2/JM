@@ -16,7 +16,7 @@ To conduct this analysis, we collected historical presidential election results 
 
 Our findings revealed that the relationship between unemployment and electoral outcomes is more nuanced than a simple cause-and-effect. While unemployment change proved to be a weaker predictor of party switching than initially expected, our longer-term analysis uncovered a notable shift in how unemployment and partisan lean relate to one another across decades, a pattern that points to a broader realignment in American electoral politics. These results are explored in depth in the sections that follow.
 
-
++++ more words
 
  ## Data Profiles - Michael for FRED, Joy for elections
 [max 2000 words] For each dataset used, describe its structure, content, and characteristics. Specify the location of the dataset files in your project repository. Discuss any ethical or legal constraints associated with the data and explain how the datasets relate to your questions
@@ -40,6 +40,7 @@ The reason this dataset was chosen for our project is becuase the FRED API is th
 
 **2. Presidential Election Results**
 
+The second dataset 
 ## Data quality - Michael for FRED, Joy for elections
 [500-1000 words] Summary of the quality assessment.
 
@@ -82,7 +83,7 @@ Within the file, you are able to find cleaned presidential data from "extract_el
 
 
 
-After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is effected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
+After pinpointing our curiousity down to the two main questions of our project that answer how the unemployment rate is affected by the election results, we started with our data analysis. Challeneges that stood out while doing so was developing a new column to highlight points in our analysis 
 
 _Final Note_
 While we did a good job of planning our project out before we started, we still faced one unexpected challenge at the end when we attempted to reproduce our workflow. In the jupyter notebook used to acquire data from FRED, some sort of the API was down, which was causing problems within our workflow. This took a short amount of time to troubleshoot, and nothing could be done until the API was working again. 
