@@ -27,9 +27,13 @@ Our findings revealed that the relationship between unemployment and electoral o
   The first dataset is unemployment data pulled from the federal reserve bank of St. Louis. The cleaned data set can be found in the "Acquire FRED Data" folder, under the title "fred_unemployment_raw.csv." Each oservation is a specific state in a specific month, dating back to 1976. The attributes are as follows:
 
 **date:** date the information was collected, in the format YYYY-MM-DD (each one on the first day of the month)
+
 **state:** the name of the state ex. 'Alabama'
+
 **series_id:** this is how the API pulls the data, for example 'ALUR' pulled unemployment rate (UR) for Alabama
+
 **unemployment_rate:** the unemployment rate, calculated by taking the total number of unemployed persons divided by the total size of the labor force, multiplied by 100. 
+
 **realtime_start/end:** The date that we pulled the data (irrevelant for analysis and will be dropped later)
 
 In terms of constraints, there are a number of requirements and prohibitions applicable to this data set. For example, if instead of a project, this was an application, we would be required to state that "This product uses the FRED® API but is not endorsed or certified by the Federal Reserve Bank of St. Louis." We also are not allowed to use the FRED API for any activity in connection to "spyware, adware, viruses, worms, defects, Trojan horses, or other malicious programs or code, counterfeit goods, items subject to U.S. embargo, unsolicited mass distribution of email ("spam"), multi-level marketing proposals, hate materials, hacking, surveillance, interception, descrambling equipment, libelous, defamatory, harassing, obscene, pornographic, abusive or otherwise offensive content, prostitution, body parts and bodily fluids, stolen products and items used for theft, fireworks, explosives, and hazardous materials, government IDs, police items, gambling, professional services regulated by state licensing regimes, non-transferable items such as airline tickets or event tickets, weapons and accessories."
@@ -93,12 +97,18 @@ While we did a good job of planning our project out before we started, we still 
 We decided to use snakemake in order to automate our workflow. To reproduce our workflow, you will need a machine with Anaconda/Miniconda installed. Additionally, you need to acquire a FRED API key which can be obtained for free at fred.stlouisfed.org. 
 
 In your command prompt, start off by cloning our repository, then navigate into it. You then need to replicate and activate our environment:
+
 git clone https://github.com/mpatera2/JM
+
 cd JM
+
 conda env create -f environment.yml
+
 conda activate election-pipeline
 
+
 Like we mentioned, you need your own FRED API Key. To insert your API Key, run the following line:
+
 echo API KEY HERE> "PATH HERE\Acquire FRED Data\apikey.txt"
 
 Example (not a real API Key)
@@ -114,6 +124,12 @@ jupyter notebook
 Click on election_data_analysis_and_visualization_executed, and compare to the version in our analyze data folder. A couple notes:
 Due to the API data issue identified earlier, there may be slight variances. For example, at the time of writing this, a couple states were having trouble pulling API data. This resulted in the 'Switch Rate by Unemployment Change Bracket' chart to have one observation bucketed in the -3 to -1 box instead of the -1 to 1 box. The rest of the charts are still nearly identical, however due to the API issue, checking SHA-256 checksums may indicate different results. Overall, I enjoyed the process of learning how to use Snakemake. 
 
+**Summary of the Snakefile itself:**
+
+acquire_fred: pulls data from the FRED API into a CSV
+clean_election: takes the raw election data and converts it into a usable CSV that can be integrated with the FRED data
+fuse_data: Performs a couple final cleaning items on each data set (FRED and election) and combines into one
+analyze_data: Takes the fused data and performs analysis
 
 
 ### References - Michael for FRED, Joy for elections
